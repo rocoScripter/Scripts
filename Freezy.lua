@@ -1,739 +1,739 @@
 
-local fh9a32a3a15a89gb = {
-	dh3c69835409913a9 = Instance.new("ScreenGui"),
-	gcf251gdfhc5bd = Instance.new("Frame"),
-	h3hbd1ecg91553676a9h231d9617b0a4 = Instance.new("UICorner"),
-	a1h5da7g33e7e6 = Instance.new("TextLabel"),
-	h5f582h0hg1b08830e4fe5dcd = Instance.new("ImageButton"),
-	e9d27h232g022 = Instance.new("ImageButton"),
-	b35d97b32ag5h7ab7c86ea7a14 = Instance.new("Frame"),
-	a94ef8d8312d18ehd0bb37220ah = Instance.new("ScrollingFrame"),
-	f1e1616bd4150a37a3a = Instance.new("TextLabel"),
-	g6gdeb2ebd4a = Instance.new("TextButton"),
-	hc8b244 = Instance.new("Frame"),
-	chd544dd5081h2dhc = Instance.new("UIStroke"),
-	f22026 = Instance.new("UICorner"),
-	ga4c9be39c2bf47ag53hfgae3ae = Instance.new("UICorner"),
-	cb1b920ehc1h29fhg3h0a2e96e4a981 = Instance.new("TextLabel"),
-	d1gba7gahhb01b4a = Instance.new("TextButton"),
-	dgcb135ebgafa926e = Instance.new("Frame"),
-	f36c1fg5682ah1a184f0gha6356g = Instance.new("UIStroke"),
-	g83ce72hf860574 = Instance.new("UICorner"),
-	efe578371708a99721 = Instance.new("UICorner"),
-	a4hc9820d61b427 = Instance.new("TextLabel"),
-	g71gbghf5e453201 = Instance.new("TextButton"),
-	ff41d5e430ca6g8 = Instance.new("Frame"),
-	cf5h2df5dgc3ahh7300gce4a4249g359 = Instance.new("UIStroke"),
-	eh52878fcgaff19fcc = Instance.new("UICorner"),
-	h6c3ch5afeh56a21083e2gb68a9595 = Instance.new("UICorner"),
-	bhd4g7d4h1e1ad7d95g0c9cd8 = Instance.new("TextBox"),
-	gaf8he666f1cg1g21hg0gf = Instance.new("UICorner"),
-	b9ab9148d = Instance.new("Frame"),
-	dhaefh0bdecb12g45d = Instance.new("UICorner"),
-	bg0g352gg88995732c421200f5788f7 = Instance.new("ImageLabel"),
-	h8h8h4cafeaae827h14cfe = Instance.new("UIAspectRatioConstraint"),
-	g3a3adb7hgah9gedc721b1882fce = Instance.new("ImageLabel"),
-	da6690ed8a8ede80b7c7hg21c2ee4d = Instance.new("UIAspectRatioConstraint"),
-	c7a42ffa127247h0b7ag8eh33d = Instance.new("ImageLabel"),
-	c88dhb851f0 = Instance.new("UIAspectRatioConstraint"),
-	e301b91d34248838e2ge9h4h3gh4 = Instance.new("TextLabel"),
-	b193a4cb03763dgfgge04dhhb98 = Instance.new("TextButton"),
-	f2h2g2d = Instance.new("TextButton"),
-	ech005g8h5ce926bg28e874 = Instance.new("TextButton"),
-	c10eb7e8g72g3edgh65h3238 = Instance.new("Frame"),
-	fab8c9f9016774 = Instance.new("ScrollingFrame"),
-	c0dd7f57hc5hfh5f68 = Instance.new("TextBox"),
-	ah009dbbc0271f2gc6ff6ag5b = Instance.new("TextLabel"),
-	b7a3eaah719ege6e6674c28g3 = Instance.new("TextLabel"),
-	h8d0f3e034dba38e8ag0 = Instance.new("TextLabel"),
-	cd3682g0g1988a314db3g7a5764a58 = Instance.new("TextLabel"),
-	h2db7fe3ghf = Instance.new("TextLabel"),
-	ch069c97bd8e = Instance.new("TextLabel"),
-	a2a235f9 = Instance.new("TextLabel"),
-	gff1dfe9b0e97879 = Instance.new("UIAspectRatioConstraint"),
-	ahd6ec6333haa5gf001fah82 = Instance.new("TextLabel"),
-	g90dha8925d68ddd3he029d07c282a4 = Instance.new("ImageButton"),
-	g65b0b7bae = Instance.new("Frame"),
-	g7g44ca16e5h2de60aba301f = Instance.new("UIStroke"),
-	a0217f75 = Instance.new("UICorner"),
-	h1564aahee = Instance.new("UICorner"),
-	gcd9h0284g7049g25bbe8f3aebf2h = Instance.new("ImageButton"),
-	c9h11dhda500ee3efgce96 = Instance.new("Frame"),
-	cgagd46235be24h2ha79e9f78 = Instance.new("UIStroke"),
-	c5c9gg8d1af135d7hbcd76cd1cgcdd = Instance.new("UICorner"),
-	d19a60ah3hg64a = Instance.new("UICorner"),
-	gdd85gf1bg3ba = Instance.new("Frame"),
-	hc7hhee35h731f723 = Instance.new("TextLabel"),
-	gfeae = Instance.new("TextLabel"),
-	ch882da = Instance.new("TextLabel"),
-	h34b3hdbe62g5d9f38e9 = Instance.new("TextLabel"),
-	e7de9c1ac7f0g = Instance.new("TextLabel"),
-	acbd676hgha2f32e2 = Instance.new("TextLabel"),
-	eg79c6433 = Instance.new("TextLabel"),
+local g5b505fbb1cf291de2a63b = {
+	g55db54e2d = Instance.new("ScreenGui"),
+	cba4194d3eaf3099h41a6h650d1432 = Instance.new("Frame"),
+	e5gh963448878gea4707ca = Instance.new("UICorner"),
+	ff91d964dag95 = Instance.new("TextLabel"),
+	fcha8ghf16b791h8b9202d5f22b3 = Instance.new("ImageButton"),
+	ae0h59eh18eee06g2835g5be6b3346g = Instance.new("ImageButton"),
+	hg3ef608d6a3578497 = Instance.new("Frame"),
+	bdg10g1f = Instance.new("ScrollingFrame"),
+	c9dh771ea8h3b1d9 = Instance.new("TextLabel"),
+	a1bg90dfbh48029hh6f5chgd4f6g = Instance.new("TextButton"),
+	cabd7d268dheg0690fb04a = Instance.new("Frame"),
+	bfe16faf08hh6h30539 = Instance.new("UIStroke"),
+	gch3f = Instance.new("UICorner"),
+	e34aec0fcce6h7298099f52 = Instance.new("UICorner"),
+	e6b4chad2gh7g0cfadb130a15ge59479 = Instance.new("TextLabel"),
+	dggdf8 = Instance.new("TextButton"),
+	ee256d = Instance.new("Frame"),
+	a62f001f = Instance.new("UIStroke"),
+	bcg47hd15fbe9d239c096a4a6a25g9 = Instance.new("UICorner"),
+	a50d38b2a = Instance.new("UICorner"),
+	fae84d659 = Instance.new("TextLabel"),
+	cb36143075676a3hbc35gh1f5f8hge0h = Instance.new("TextButton"),
+	aad53d2553595275f8767 = Instance.new("Frame"),
+	cc91689618e8bd7 = Instance.new("UIStroke"),
+	e6a872ah79g3h79bb543h9a6b962c3h1 = Instance.new("UICorner"),
+	cggdgh2g = Instance.new("UICorner"),
+	gca6h44b5c25bbfe6314d5f9h = Instance.new("TextBox"),
+	e77chc = Instance.new("UICorner"),
+	e6fgd6 = Instance.new("Frame"),
+	c41dcd06fh44f9h6 = Instance.new("UICorner"),
+	g1c14a4687be = Instance.new("ImageLabel"),
+	g9324acacgfahgh = Instance.new("UIAspectRatioConstraint"),
+	g136dch = Instance.new("ImageLabel"),
+	ef9d3f556hd0c3a7bd = Instance.new("UIAspectRatioConstraint"),
+	e8311hhc825 = Instance.new("ImageLabel"),
+	f54d08b6739aef4c06f188d82gbghef = Instance.new("UIAspectRatioConstraint"),
+	eb02g5ccg8b70f7455 = Instance.new("TextLabel"),
+	he4a6c367bbh3 = Instance.new("TextButton"),
+	h8ah66264bf8116ga875h05h09f9b = Instance.new("TextButton"),
+	cd1hhg = Instance.new("TextButton"),
+	g07ee = Instance.new("Frame"),
+	d6bd09ad = Instance.new("ScrollingFrame"),
+	h8aga466hce3g0df770dbf3e = Instance.new("TextBox"),
+	b41585hgfgg6c51 = Instance.new("TextLabel"),
+	ae4f24e7cd686e40ac1a6df0 = Instance.new("TextLabel"),
+	f0908fabc099dea0cbbg49bae6 = Instance.new("TextLabel"),
+	c1a368d451feh88371bfd87f7 = Instance.new("TextLabel"),
+	dahdceg5714 = Instance.new("TextLabel"),
+	fd014017d83d = Instance.new("TextLabel"),
+	f8dc815f8b821c29g8hb5b = Instance.new("TextLabel"),
+	hd6he3df1h793f5ghc2h = Instance.new("UIAspectRatioConstraint"),
+	eg3gg26f2952b44639c2g835530b0hd = Instance.new("TextLabel"),
+	h7ea31d639g86c2gc2afc36f8c0g = Instance.new("ImageButton"),
+	a7ee6097ag99e09fc3bf188d1b = Instance.new("Frame"),
+	c1b4f97g30a = Instance.new("UIStroke"),
+	g7c1gb = Instance.new("UICorner"),
+	gb0b9a7 = Instance.new("UICorner"),
+	hd854gc9ggh7fb4e1ff5d = Instance.new("ImageButton"),
+	fhh5gg777g56268709g060d1c48da = Instance.new("Frame"),
+	ac9f8dchcf3b = Instance.new("UIStroke"),
+	f0head6b55a2h76 = Instance.new("UICorner"),
+	ec70ha095e3c7dd523hc621a763bcd = Instance.new("UICorner"),
+	aad1b90 = Instance.new("Frame"),
+	gf476e286ce3006a8e35b150e4c7gb = Instance.new("TextLabel"),
+	ca459eah515cf51d65883haa = Instance.new("TextLabel"),
+	achef1ehg0hee16g94a68cha4 = Instance.new("TextLabel"),
+	bb3chda52ge0a4d18c47a2h1d9b23 = Instance.new("TextLabel"),
+	g16cecddgcgf = Instance.new("TextLabel"),
+	b355gfb375f909a955884 = Instance.new("TextLabel"),
+	ge74fb2gg = Instance.new("TextLabel"),
 };
 
-fh9a32a3a15a89gb.dh3c69835409913a9.Name = "Freezy";
-fh9a32a3a15a89gb.dh3c69835409913a9.Parent = game:GetService("CoreGui");
-
-fh9a32a3a15a89gb.gcf251gdfhc5bd.Name = "MainFrame";
-fh9a32a3a15a89gb.gcf251gdfhc5bd.Size = UDim2.new(0, 550, 0, 390);
-fh9a32a3a15a89gb.gcf251gdfhc5bd.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.gcf251gdfhc5bd.Position = UDim2.new(0.401619226, 0, 0.263707578, 0);
-fh9a32a3a15a89gb.gcf251gdfhc5bd.BorderSizePixel = 0;
-fh9a32a3a15a89gb.gcf251gdfhc5bd.BackgroundColor3 = Color3.fromRGB(34, 34, 34);
-fh9a32a3a15a89gb.gcf251gdfhc5bd.Parent = fh9a32a3a15a89gb.dh3c69835409913a9;
-
-fh9a32a3a15a89gb.h3hbd1ecg91553676a9h231d9617b0a4.Name = "UICorner";
-fh9a32a3a15a89gb.h3hbd1ecg91553676a9h231d9617b0a4.Parent = fh9a32a3a15a89gb.gcf251gdfhc5bd;
-
-fh9a32a3a15a89gb.a1h5da7g33e7e6.Name = "Title";
-fh9a32a3a15a89gb.a1h5da7g33e7e6.Size = UDim2.new(0, 300, 0, 50);
-fh9a32a3a15a89gb.a1h5da7g33e7e6.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.a1h5da7g33e7e6.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.a1h5da7g33e7e6.Position = UDim2.new(0.280470967, 0, -0.00176808366, 0);
-fh9a32a3a15a89gb.a1h5da7g33e7e6.BorderSizePixel = 0;
-fh9a32a3a15a89gb.a1h5da7g33e7e6.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.a1h5da7g33e7e6.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.a1h5da7g33e7e6.Text = "Freezy - UI Build";
-fh9a32a3a15a89gb.a1h5da7g33e7e6.TextSize = 18;
-fh9a32a3a15a89gb.a1h5da7g33e7e6.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.a1h5da7g33e7e6.Parent = fh9a32a3a15a89gb.gcf251gdfhc5bd;
-
-fh9a32a3a15a89gb.h5f582h0hg1b08830e4fe5dcd.Name = "Close";
-fh9a32a3a15a89gb.h5f582h0hg1b08830e4fe5dcd.Size = UDim2.new(0, 20, 0, 20);
-fh9a32a3a15a89gb.h5f582h0hg1b08830e4fe5dcd.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.h5f582h0hg1b08830e4fe5dcd.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.h5f582h0hg1b08830e4fe5dcd.Position = UDim2.new(0.936835051, 0, 0.0317948572, 0);
-fh9a32a3a15a89gb.h5f582h0hg1b08830e4fe5dcd.BorderSizePixel = 0;
-fh9a32a3a15a89gb.h5f582h0hg1b08830e4fe5dcd.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.h5f582h0hg1b08830e4fe5dcd.Image = "rbxassetid://10747384394";
-fh9a32a3a15a89gb.h5f582h0hg1b08830e4fe5dcd.Parent = fh9a32a3a15a89gb.gcf251gdfhc5bd;
-
-fh9a32a3a15a89gb.e9d27h232g022.Name = "Minimize";
-fh9a32a3a15a89gb.e9d27h232g022.Size = UDim2.new(0, 33, 0, 22);
-fh9a32a3a15a89gb.e9d27h232g022.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.e9d27h232g022.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.e9d27h232g022.Position = UDim2.new(0.84228915, 0, 0.0304345544, 0);
-fh9a32a3a15a89gb.e9d27h232g022.BorderSizePixel = 0;
-fh9a32a3a15a89gb.e9d27h232g022.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.e9d27h232g022.Image = "rbxassetid://10734896206";
-fh9a32a3a15a89gb.e9d27h232g022.Parent = fh9a32a3a15a89gb.gcf251gdfhc5bd;
-
-fh9a32a3a15a89gb.b35d97b32ag5h7ab7c86ea7a14.Name = "ScriptHub";
-fh9a32a3a15a89gb.b35d97b32ag5h7ab7c86ea7a14.Size = UDim2.new(0, 430, 0, 356);
-fh9a32a3a15a89gb.b35d97b32ag5h7ab7c86ea7a14.Visible = false;
-fh9a32a3a15a89gb.b35d97b32ag5h7ab7c86ea7a14.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.b35d97b32ag5h7ab7c86ea7a14.Position = UDim2.new(0.216902748, 0, 0.082452938, 0);
-fh9a32a3a15a89gb.b35d97b32ag5h7ab7c86ea7a14.BorderSizePixel = 0;
-fh9a32a3a15a89gb.b35d97b32ag5h7ab7c86ea7a14.BackgroundColor3 = Color3.fromRGB(34, 34, 34);
-fh9a32a3a15a89gb.b35d97b32ag5h7ab7c86ea7a14.Parent = fh9a32a3a15a89gb.gcf251gdfhc5bd;
-
-fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah.Name = "Scroll";
-fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah.Size = UDim2.new(0, 413, 0, 341);
-fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah.BorderColor3 = Color3.fromRGB(61, 61, 61);
-fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah.Position = UDim2.new(0, 9, 0, 12);
-fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah.BackgroundColor3 = Color3.fromRGB(37, 37, 37);
-fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah.MidImage = "rbxassetid://148970562";
-fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah.ScrollBarThickness = 5;
-fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah.TopImage = "rbxassetid://148970562";
-fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah.BottomImage = "rbxassetid://148970562";
-fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah.HorizontalScrollBarInset = Enum.ScrollBarInset.ScrollBar;
-fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah.CanvasSize = UDim2.new(0, 0, 3, 0);
-fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah.Parent = fh9a32a3a15a89gb.b35d97b32ag5h7ab7c86ea7a14;
-
-fh9a32a3a15a89gb.f1e1616bd4150a37a3a.Name = "AzureModded";
-fh9a32a3a15a89gb.f1e1616bd4150a37a3a.Size = UDim2.new(0, 278, 0, 50);
-fh9a32a3a15a89gb.f1e1616bd4150a37a3a.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.f1e1616bd4150a37a3a.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.f1e1616bd4150a37a3a.BorderSizePixel = 0;
-fh9a32a3a15a89gb.f1e1616bd4150a37a3a.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.f1e1616bd4150a37a3a.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.f1e1616bd4150a37a3a.Text = "Azure Modded.lua";
-fh9a32a3a15a89gb.f1e1616bd4150a37a3a.TextSize = 14;
-fh9a32a3a15a89gb.f1e1616bd4150a37a3a.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.f1e1616bd4150a37a3a.Parent = fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah;
-
-fh9a32a3a15a89gb.g6gdeb2ebd4a.Name = "AzureExecute";
-fh9a32a3a15a89gb.g6gdeb2ebd4a.Size = UDim2.new(0, 130, 0, 25);
-fh9a32a3a15a89gb.g6gdeb2ebd4a.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.g6gdeb2ebd4a.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.g6gdeb2ebd4a.Position = UDim2.new(0.179176763, 0, 0.0594732128, 0);
-fh9a32a3a15a89gb.g6gdeb2ebd4a.BorderSizePixel = 0;
-fh9a32a3a15a89gb.g6gdeb2ebd4a.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.g6gdeb2ebd4a.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.g6gdeb2ebd4a.Text = "Execute";
-fh9a32a3a15a89gb.g6gdeb2ebd4a.TextSize = 14;
-fh9a32a3a15a89gb.g6gdeb2ebd4a.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.g6gdeb2ebd4a.Parent = fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah;
-
-fh9a32a3a15a89gb.hc8b244.Name = "Background";
-fh9a32a3a15a89gb.hc8b244.AnchorPoint = Vector2.new(0.5, 0.5);
-fh9a32a3a15a89gb.hc8b244.Size = UDim2.new(0, 130, 0, 25);
-fh9a32a3a15a89gb.hc8b244.BorderColor3 = Color3.fromRGB(27, 42, 53);
-fh9a32a3a15a89gb.hc8b244.ClipsDescendants = true;
-fh9a32a3a15a89gb.hc8b244.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.hc8b244.Position = UDim2.new(0, 64, 0, 12);
-fh9a32a3a15a89gb.hc8b244.BackgroundColor3 = Color3.fromRGB(80, 80, 80);
-fh9a32a3a15a89gb.hc8b244.Parent = fh9a32a3a15a89gb.g6gdeb2ebd4a;
-
-fh9a32a3a15a89gb.chd544dd5081h2dhc.Name = "Border";
-fh9a32a3a15a89gb.chd544dd5081h2dhc.Color = Color3.fromRGB(70, 70, 70);
-fh9a32a3a15a89gb.chd544dd5081h2dhc.Parent = fh9a32a3a15a89gb.hc8b244;
-
-fh9a32a3a15a89gb.f22026.Name = "CornerRadius";
-fh9a32a3a15a89gb.f22026.CornerRadius = UDim.new(0, 4);
-fh9a32a3a15a89gb.f22026.Parent = fh9a32a3a15a89gb.hc8b244;
-
-fh9a32a3a15a89gb.ga4c9be39c2bf47ag53hfgae3ae.Name = "UICorner";
-fh9a32a3a15a89gb.ga4c9be39c2bf47ag53hfgae3ae.CornerRadius = UDim.new(0, 4);
-fh9a32a3a15a89gb.ga4c9be39c2bf47ag53hfgae3ae.Parent = fh9a32a3a15a89gb.g6gdeb2ebd4a;
-
-fh9a32a3a15a89gb.cb1b920ehc1h29fhg3h0a2e96e4a981.Name = "Drax";
-fh9a32a3a15a89gb.cb1b920ehc1h29fhg3h0a2e96e4a981.Size = UDim2.new(0, 278, 0, 50);
-fh9a32a3a15a89gb.cb1b920ehc1h29fhg3h0a2e96e4a981.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.cb1b920ehc1h29fhg3h0a2e96e4a981.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.cb1b920ehc1h29fhg3h0a2e96e4a981.Position = UDim2.new(0.0217917673, 0, 0.0821114406, 0);
-fh9a32a3a15a89gb.cb1b920ehc1h29fhg3h0a2e96e4a981.BorderSizePixel = 0;
-fh9a32a3a15a89gb.cb1b920ehc1h29fhg3h0a2e96e4a981.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.cb1b920ehc1h29fhg3h0a2e96e4a981.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.cb1b920ehc1h29fhg3h0a2e96e4a981.Text = "Drax.lua";
-fh9a32a3a15a89gb.cb1b920ehc1h29fhg3h0a2e96e4a981.TextSize = 14;
-fh9a32a3a15a89gb.cb1b920ehc1h29fhg3h0a2e96e4a981.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.cb1b920ehc1h29fhg3h0a2e96e4a981.Parent = fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah;
-
-fh9a32a3a15a89gb.d1gba7gahhb01b4a.Name = "DraxExecute";
-fh9a32a3a15a89gb.d1gba7gahhb01b4a.Size = UDim2.new(0, 130, 0, 25);
-fh9a32a3a15a89gb.d1gba7gahhb01b4a.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.d1gba7gahhb01b4a.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.d1gba7gahhb01b4a.Position = UDim2.new(0.179176763, 0, 0.144872755, 0);
-fh9a32a3a15a89gb.d1gba7gahhb01b4a.BorderSizePixel = 0;
-fh9a32a3a15a89gb.d1gba7gahhb01b4a.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.d1gba7gahhb01b4a.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.d1gba7gahhb01b4a.Text = "Execute";
-fh9a32a3a15a89gb.d1gba7gahhb01b4a.TextSize = 14;
-fh9a32a3a15a89gb.d1gba7gahhb01b4a.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.d1gba7gahhb01b4a.Parent = fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah;
-
-fh9a32a3a15a89gb.dgcb135ebgafa926e.Name = "Background";
-fh9a32a3a15a89gb.dgcb135ebgafa926e.AnchorPoint = Vector2.new(0.5, 0.5);
-fh9a32a3a15a89gb.dgcb135ebgafa926e.Size = UDim2.new(0, 130, 0, 25);
-fh9a32a3a15a89gb.dgcb135ebgafa926e.BorderColor3 = Color3.fromRGB(27, 42, 53);
-fh9a32a3a15a89gb.dgcb135ebgafa926e.ClipsDescendants = true;
-fh9a32a3a15a89gb.dgcb135ebgafa926e.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.dgcb135ebgafa926e.Position = UDim2.new(0, 64, 0, 12);
-fh9a32a3a15a89gb.dgcb135ebgafa926e.BackgroundColor3 = Color3.fromRGB(80, 80, 80);
-fh9a32a3a15a89gb.dgcb135ebgafa926e.Parent = fh9a32a3a15a89gb.d1gba7gahhb01b4a;
-
-fh9a32a3a15a89gb.f36c1fg5682ah1a184f0gha6356g.Name = "Border";
-fh9a32a3a15a89gb.f36c1fg5682ah1a184f0gha6356g.Color = Color3.fromRGB(70, 70, 70);
-fh9a32a3a15a89gb.f36c1fg5682ah1a184f0gha6356g.Parent = fh9a32a3a15a89gb.dgcb135ebgafa926e;
-
-fh9a32a3a15a89gb.g83ce72hf860574.Name = "CornerRadius";
-fh9a32a3a15a89gb.g83ce72hf860574.CornerRadius = UDim.new(0, 4);
-fh9a32a3a15a89gb.g83ce72hf860574.Parent = fh9a32a3a15a89gb.dgcb135ebgafa926e;
-
-fh9a32a3a15a89gb.efe578371708a99721.Name = "UICorner";
-fh9a32a3a15a89gb.efe578371708a99721.CornerRadius = UDim.new(0, 4);
-fh9a32a3a15a89gb.efe578371708a99721.Parent = fh9a32a3a15a89gb.d1gba7gahhb01b4a;
-
-fh9a32a3a15a89gb.a4hc9820d61b427.Name = "Drax";
-fh9a32a3a15a89gb.a4hc9820d61b427.Size = UDim2.new(0, 278, 0, 50);
-fh9a32a3a15a89gb.a4hc9820d61b427.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.a4hc9820d61b427.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.a4hc9820d61b427.Position = UDim2.new(0.0363196135, 0, 0.177991226, 0);
-fh9a32a3a15a89gb.a4hc9820d61b427.BorderSizePixel = 0;
-fh9a32a3a15a89gb.a4hc9820d61b427.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.a4hc9820d61b427.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.a4hc9820d61b427.Text = "Lunar.lua";
-fh9a32a3a15a89gb.a4hc9820d61b427.TextSize = 14;
-fh9a32a3a15a89gb.a4hc9820d61b427.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.a4hc9820d61b427.Parent = fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah;
-
-fh9a32a3a15a89gb.g71gbghf5e453201.Name = "LunarExecute";
-fh9a32a3a15a89gb.g71gbghf5e453201.Size = UDim2.new(0, 130, 0, 25);
-fh9a32a3a15a89gb.g71gbghf5e453201.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.g71gbghf5e453201.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.g71gbghf5e453201.Position = UDim2.new(0.215496361, 0, 0.239660084, 0);
-fh9a32a3a15a89gb.g71gbghf5e453201.BorderSizePixel = 0;
-fh9a32a3a15a89gb.g71gbghf5e453201.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.g71gbghf5e453201.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.g71gbghf5e453201.Text = "Execute";
-fh9a32a3a15a89gb.g71gbghf5e453201.TextSize = 14;
-fh9a32a3a15a89gb.g71gbghf5e453201.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.g71gbghf5e453201.Parent = fh9a32a3a15a89gb.a94ef8d8312d18ehd0bb37220ah;
-
-fh9a32a3a15a89gb.ff41d5e430ca6g8.Name = "Background";
-fh9a32a3a15a89gb.ff41d5e430ca6g8.AnchorPoint = Vector2.new(0.5, 0.5);
-fh9a32a3a15a89gb.ff41d5e430ca6g8.Size = UDim2.new(0, 130, 0, 25);
-fh9a32a3a15a89gb.ff41d5e430ca6g8.BorderColor3 = Color3.fromRGB(27, 42, 53);
-fh9a32a3a15a89gb.ff41d5e430ca6g8.ClipsDescendants = true;
-fh9a32a3a15a89gb.ff41d5e430ca6g8.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.ff41d5e430ca6g8.Position = UDim2.new(0, 64, 0, 12);
-fh9a32a3a15a89gb.ff41d5e430ca6g8.BackgroundColor3 = Color3.fromRGB(80, 80, 80);
-fh9a32a3a15a89gb.ff41d5e430ca6g8.Parent = fh9a32a3a15a89gb.g71gbghf5e453201;
-
-fh9a32a3a15a89gb.cf5h2df5dgc3ahh7300gce4a4249g359.Name = "Border";
-fh9a32a3a15a89gb.cf5h2df5dgc3ahh7300gce4a4249g359.Color = Color3.fromRGB(70, 70, 70);
-fh9a32a3a15a89gb.cf5h2df5dgc3ahh7300gce4a4249g359.Parent = fh9a32a3a15a89gb.ff41d5e430ca6g8;
-
-fh9a32a3a15a89gb.eh52878fcgaff19fcc.Name = "CornerRadius";
-fh9a32a3a15a89gb.eh52878fcgaff19fcc.CornerRadius = UDim.new(0, 4);
-fh9a32a3a15a89gb.eh52878fcgaff19fcc.Parent = fh9a32a3a15a89gb.ff41d5e430ca6g8;
-
-fh9a32a3a15a89gb.h6c3ch5afeh56a21083e2gb68a9595.Name = "UICorner";
-fh9a32a3a15a89gb.h6c3ch5afeh56a21083e2gb68a9595.CornerRadius = UDim.new(0, 4);
-fh9a32a3a15a89gb.h6c3ch5afeh56a21083e2gb68a9595.Parent = fh9a32a3a15a89gb.g71gbghf5e453201;
-
-fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8.Name = "SearchBar";
-fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8.Size = UDim2.new(0, 406, 0, 20);
-fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8.Position = UDim2.new(0.0209302325, 0, 0.0224719103, 0);
-fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8.BorderSizePixel = 0;
-fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8.BackgroundColor3 = Color3.fromRGB(29, 29, 29);
-fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8.CursorPosition = -1;
-fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8.PlaceholderColor3 = Color3.fromRGB(178, 178, 178);
-fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8.PlaceholderText = "Search";
-fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8.TextSize = 14;
-fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8.TextColor3 = Color3.fromRGB(178, 178, 178);
-fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8.Text = "";
-fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8.Parent = fh9a32a3a15a89gb.b35d97b32ag5h7ab7c86ea7a14;
-
-fh9a32a3a15a89gb.gaf8he666f1cg1g21hg0gf.Name = "UICorner";
-fh9a32a3a15a89gb.gaf8he666f1cg1g21hg0gf.Parent = fh9a32a3a15a89gb.bhd4g7d4h1e1ad7d95g0c9cd8;
-
-fh9a32a3a15a89gb.b9ab9148d.Name = "Sidebar";
-fh9a32a3a15a89gb.b9ab9148d.Size = UDim2.new(0, 120, 0, 389);
-fh9a32a3a15a89gb.b9ab9148d.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.b9ab9148d.Position = UDim2.new(-0.000198974609, 0, 0.000910519331, 0);
-fh9a32a3a15a89gb.b9ab9148d.BorderSizePixel = 0;
-fh9a32a3a15a89gb.b9ab9148d.BackgroundColor3 = Color3.fromRGB(38, 38, 38);
-fh9a32a3a15a89gb.b9ab9148d.Parent = fh9a32a3a15a89gb.gcf251gdfhc5bd;
-
-fh9a32a3a15a89gb.dhaefh0bdecb12g45d.Name = "UICorner";
-fh9a32a3a15a89gb.dhaefh0bdecb12g45d.Parent = fh9a32a3a15a89gb.b9ab9148d;
-
-fh9a32a3a15a89gb.bg0g352gg88995732c421200f5788f7.Name = "ExecutorLabel";
-fh9a32a3a15a89gb.bg0g352gg88995732c421200f5788f7.Size = UDim2.new(0, 20, 0, 20);
-fh9a32a3a15a89gb.bg0g352gg88995732c421200f5788f7.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.bg0g352gg88995732c421200f5788f7.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.bg0g352gg88995732c421200f5788f7.Position = UDim2.new(0.0790405273, 0, 0.195372745, 0);
-fh9a32a3a15a89gb.bg0g352gg88995732c421200f5788f7.BorderSizePixel = 0;
-fh9a32a3a15a89gb.bg0g352gg88995732c421200f5788f7.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.bg0g352gg88995732c421200f5788f7.Image = "rbxassetid://10709807111";
-fh9a32a3a15a89gb.bg0g352gg88995732c421200f5788f7.Parent = fh9a32a3a15a89gb.b9ab9148d;
-
-fh9a32a3a15a89gb.h8h8h4cafeaae827h14cfe.Name = "UIAspectRatioConstraint";
-fh9a32a3a15a89gb.h8h8h4cafeaae827h14cfe.Parent = fh9a32a3a15a89gb.bg0g352gg88995732c421200f5788f7;
-
-fh9a32a3a15a89gb.g3a3adb7hgah9gedc721b1882fce.Name = "HomeLabel";
-fh9a32a3a15a89gb.g3a3adb7hgah9gedc721b1882fce.Size = UDim2.new(0, 20, 0, 20);
-fh9a32a3a15a89gb.g3a3adb7hgah9gedc721b1882fce.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.g3a3adb7hgah9gedc721b1882fce.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.g3a3adb7hgah9gedc721b1882fce.Position = UDim2.new(0.0790405273, 0, 0.115681231, 0);
-fh9a32a3a15a89gb.g3a3adb7hgah9gedc721b1882fce.BorderSizePixel = 0;
-fh9a32a3a15a89gb.g3a3adb7hgah9gedc721b1882fce.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.g3a3adb7hgah9gedc721b1882fce.Image = "rbxassetid://10723407389";
-fh9a32a3a15a89gb.g3a3adb7hgah9gedc721b1882fce.Parent = fh9a32a3a15a89gb.b9ab9148d;
-
-fh9a32a3a15a89gb.da6690ed8a8ede80b7c7hg21c2ee4d.Name = "UIAspectRatioConstraint";
-fh9a32a3a15a89gb.da6690ed8a8ede80b7c7hg21c2ee4d.Parent = fh9a32a3a15a89gb.g3a3adb7hgah9gedc721b1882fce;
-
-fh9a32a3a15a89gb.c7a42ffa127247h0b7ag8eh33d.Name = "ExecutorLabel";
-fh9a32a3a15a89gb.c7a42ffa127247h0b7ag8eh33d.Size = UDim2.new(0, 20, 0, 20);
-fh9a32a3a15a89gb.c7a42ffa127247h0b7ag8eh33d.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.c7a42ffa127247h0b7ag8eh33d.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.c7a42ffa127247h0b7ag8eh33d.Position = UDim2.new(0.0790405273, 0, 0.27506426, 0);
-fh9a32a3a15a89gb.c7a42ffa127247h0b7ag8eh33d.BorderSizePixel = 0;
-fh9a32a3a15a89gb.c7a42ffa127247h0b7ag8eh33d.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.c7a42ffa127247h0b7ag8eh33d.Image = "rbxassetid://10734943448";
-fh9a32a3a15a89gb.c7a42ffa127247h0b7ag8eh33d.Parent = fh9a32a3a15a89gb.b9ab9148d;
-
-fh9a32a3a15a89gb.c88dhb851f0.Name = "UIAspectRatioConstraint";
-fh9a32a3a15a89gb.c88dhb851f0.Parent = fh9a32a3a15a89gb.c7a42ffa127247h0b7ag8eh33d;
-
-fh9a32a3a15a89gb.e301b91d34248838e2ge9h4h3gh4.Name = "Info";
-fh9a32a3a15a89gb.e301b91d34248838e2ge9h4h3gh4.Size = UDim2.new(0, 119, 0, 22);
-fh9a32a3a15a89gb.e301b91d34248838e2ge9h4h3gh4.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.e301b91d34248838e2ge9h4h3gh4.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.e301b91d34248838e2ge9h4h3gh4.Position = UDim2.new(0.00833384227, 0, 0.0308483299, 0);
-fh9a32a3a15a89gb.e301b91d34248838e2ge9h4h3gh4.BorderSizePixel = 0;
-fh9a32a3a15a89gb.e301b91d34248838e2ge9h4h3gh4.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.e301b91d34248838e2ge9h4h3gh4.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.e301b91d34248838e2ge9h4h3gh4.Text = "Info";
-fh9a32a3a15a89gb.e301b91d34248838e2ge9h4h3gh4.TextSize = 14;
-fh9a32a3a15a89gb.e301b91d34248838e2ge9h4h3gh4.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.e301b91d34248838e2ge9h4h3gh4.Parent = fh9a32a3a15a89gb.b9ab9148d;
-
-fh9a32a3a15a89gb.b193a4cb03763dgfgge04dhhb98.Name = "ExecutorLabel";
-fh9a32a3a15a89gb.b193a4cb03763dgfgge04dhhb98.Size = UDim2.new(0, 119, 0, 22);
-fh9a32a3a15a89gb.b193a4cb03763dgfgge04dhhb98.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.b193a4cb03763dgfgge04dhhb98.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.b193a4cb03763dgfgge04dhhb98.Position = UDim2.new(0.00800000038, 0, 0.189999998, 0);
-fh9a32a3a15a89gb.b193a4cb03763dgfgge04dhhb98.BorderSizePixel = 0;
-fh9a32a3a15a89gb.b193a4cb03763dgfgge04dhhb98.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.b193a4cb03763dgfgge04dhhb98.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.b193a4cb03763dgfgge04dhhb98.Text = "   Executor";
-fh9a32a3a15a89gb.b193a4cb03763dgfgge04dhhb98.TextSize = 14;
-fh9a32a3a15a89gb.b193a4cb03763dgfgge04dhhb98.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.b193a4cb03763dgfgge04dhhb98.Parent = fh9a32a3a15a89gb.b9ab9148d;
-
-fh9a32a3a15a89gb.f2h2g2d.Name = "HomeLabel";
-fh9a32a3a15a89gb.f2h2g2d.Size = UDim2.new(0, 119, 0, 22);
-fh9a32a3a15a89gb.f2h2g2d.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.f2h2g2d.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.f2h2g2d.Position = UDim2.new(0.00799992867, 0, 0.115449883, 0);
-fh9a32a3a15a89gb.f2h2g2d.BorderSizePixel = 0;
-fh9a32a3a15a89gb.f2h2g2d.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.f2h2g2d.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.f2h2g2d.Text = "Home";
-fh9a32a3a15a89gb.f2h2g2d.TextSize = 14;
-fh9a32a3a15a89gb.f2h2g2d.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.f2h2g2d.Parent = fh9a32a3a15a89gb.b9ab9148d;
-
-fh9a32a3a15a89gb.ech005g8h5ce926bg28e874.Name = "ScriptHubLabel";
-fh9a32a3a15a89gb.ech005g8h5ce926bg28e874.Size = UDim2.new(0, 119, 0, 22);
-fh9a32a3a15a89gb.ech005g8h5ce926bg28e874.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.ech005g8h5ce926bg28e874.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.ech005g8h5ce926bg28e874.Position = UDim2.new(0.00799992867, 0, 0.269691527, 0);
-fh9a32a3a15a89gb.ech005g8h5ce926bg28e874.BorderSizePixel = 0;
-fh9a32a3a15a89gb.ech005g8h5ce926bg28e874.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.ech005g8h5ce926bg28e874.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.ech005g8h5ce926bg28e874.Text = "    Script Hub";
-fh9a32a3a15a89gb.ech005g8h5ce926bg28e874.TextSize = 14;
-fh9a32a3a15a89gb.ech005g8h5ce926bg28e874.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.ech005g8h5ce926bg28e874.Parent = fh9a32a3a15a89gb.b9ab9148d;
-
-fh9a32a3a15a89gb.c10eb7e8g72g3edgh65h3238.Name = "Executor";
-fh9a32a3a15a89gb.c10eb7e8g72g3edgh65h3238.Size = UDim2.new(0, 430, 0, 356);
-fh9a32a3a15a89gb.c10eb7e8g72g3edgh65h3238.Visible = false;
-fh9a32a3a15a89gb.c10eb7e8g72g3edgh65h3238.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.c10eb7e8g72g3edgh65h3238.Position = UDim2.new(0.216902748, 0, 0.082452938, 0);
-fh9a32a3a15a89gb.c10eb7e8g72g3edgh65h3238.BorderSizePixel = 0;
-fh9a32a3a15a89gb.c10eb7e8g72g3edgh65h3238.BackgroundColor3 = Color3.fromRGB(34, 34, 34);
-fh9a32a3a15a89gb.c10eb7e8g72g3edgh65h3238.Parent = fh9a32a3a15a89gb.gcf251gdfhc5bd;
-
-fh9a32a3a15a89gb.fab8c9f9016774.Name = "Scroll";
-fh9a32a3a15a89gb.fab8c9f9016774.Size = UDim2.new(0, 402, 0, 279);
-fh9a32a3a15a89gb.fab8c9f9016774.BorderColor3 = Color3.fromRGB(61, 61, 61);
-fh9a32a3a15a89gb.fab8c9f9016774.Position = UDim2.new(0, 13, 0, 13);
-fh9a32a3a15a89gb.fab8c9f9016774.BackgroundColor3 = Color3.fromRGB(37, 37, 37);
-fh9a32a3a15a89gb.fab8c9f9016774.MidImage = "rbxassetid://148970562";
-fh9a32a3a15a89gb.fab8c9f9016774.ScrollBarThickness = 5;
-fh9a32a3a15a89gb.fab8c9f9016774.TopImage = "rbxassetid://148970562";
-fh9a32a3a15a89gb.fab8c9f9016774.BottomImage = "rbxassetid://148970562";
-fh9a32a3a15a89gb.fab8c9f9016774.HorizontalScrollBarInset = Enum.ScrollBarInset.ScrollBar;
-fh9a32a3a15a89gb.fab8c9f9016774.CanvasSize = UDim2.new(0, 0, 3, 0);
-fh9a32a3a15a89gb.fab8c9f9016774.Parent = fh9a32a3a15a89gb.c10eb7e8g72g3edgh65h3238;
-
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.Name = "CodeBox";
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.Size = UDim2.new(0.890181243, 0, 42092.918, 0);
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.Position = UDim2.new(0, 25, 0, 0);
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.BorderSizePixel = 0;
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.BackgroundColor3 = Color3.fromRGB(22, 22, 22);
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.MultiLine = true;
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.PlaceholderColor3 = Color3.fromRGB(204, 204, 204);
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.TextSize = 14;
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.TextYAlignment = Enum.TextYAlignment.Top;
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.Text = "-- Execute your scripts here";
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.TextWrapped = true;
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.TextXAlignment = Enum.TextXAlignment.Left;
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.ClearTextOnFocus = false;
-fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68.Parent = fh9a32a3a15a89gb.fab8c9f9016774;
-
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.Name = "Comments_";
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.ZIndex = 5;
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.Size = UDim2.new(1, 0, 1, 0);
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.BorderColor3 = Color3.fromRGB(27, 42, 53);
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.ClipsDescendants = true;
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.TextYAlignment = Enum.TextYAlignment.Top;
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.TextColor3 = Color3.fromRGB(86, 86, 86);
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.Text = "";
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.TextXAlignment = Enum.TextXAlignment.Left;
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.TextSize = 14;
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.TextTransparency = 1;
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.ah009dbbc0271f2gc6ff6ag5b.Parent = fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68;
-
-fh9a32a3a15a89gb.b7a3eaah719ege6e6674c28g3.Name = "Globals_";
-fh9a32a3a15a89gb.b7a3eaah719ege6e6674c28g3.ZIndex = 5;
-fh9a32a3a15a89gb.b7a3eaah719ege6e6674c28g3.Size = UDim2.new(1, 0, 1, 0);
-fh9a32a3a15a89gb.b7a3eaah719ege6e6674c28g3.BorderColor3 = Color3.fromRGB(27, 42, 53);
-fh9a32a3a15a89gb.b7a3eaah719ege6e6674c28g3.ClipsDescendants = true;
-fh9a32a3a15a89gb.b7a3eaah719ege6e6674c28g3.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.b7a3eaah719ege6e6674c28g3.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.b7a3eaah719ege6e6674c28g3.TextYAlignment = Enum.TextYAlignment.Top;
-fh9a32a3a15a89gb.b7a3eaah719ege6e6674c28g3.TextColor3 = Color3.fromRGB(132, 214, 247);
-fh9a32a3a15a89gb.b7a3eaah719ege6e6674c28g3.Text = "";
-fh9a32a3a15a89gb.b7a3eaah719ege6e6674c28g3.TextXAlignment = Enum.TextXAlignment.Left;
-fh9a32a3a15a89gb.b7a3eaah719ege6e6674c28g3.TextSize = 14;
-fh9a32a3a15a89gb.b7a3eaah719ege6e6674c28g3.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.b7a3eaah719ege6e6674c28g3.Parent = fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68;
-
-fh9a32a3a15a89gb.h8d0f3e034dba38e8ag0.Name = "Keywords_";
-fh9a32a3a15a89gb.h8d0f3e034dba38e8ag0.ZIndex = 5;
-fh9a32a3a15a89gb.h8d0f3e034dba38e8ag0.Size = UDim2.new(1, 0, 1, 0);
-fh9a32a3a15a89gb.h8d0f3e034dba38e8ag0.BorderColor3 = Color3.fromRGB(27, 42, 53);
-fh9a32a3a15a89gb.h8d0f3e034dba38e8ag0.ClipsDescendants = true;
-fh9a32a3a15a89gb.h8d0f3e034dba38e8ag0.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.h8d0f3e034dba38e8ag0.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.h8d0f3e034dba38e8ag0.TextYAlignment = Enum.TextYAlignment.Top;
-fh9a32a3a15a89gb.h8d0f3e034dba38e8ag0.TextColor3 = Color3.fromRGB(248, 109, 124);
-fh9a32a3a15a89gb.h8d0f3e034dba38e8ag0.Text = "";
-fh9a32a3a15a89gb.h8d0f3e034dba38e8ag0.TextXAlignment = Enum.TextXAlignment.Left;
-fh9a32a3a15a89gb.h8d0f3e034dba38e8ag0.TextSize = 14;
-fh9a32a3a15a89gb.h8d0f3e034dba38e8ag0.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.h8d0f3e034dba38e8ag0.Parent = fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68;
-
-fh9a32a3a15a89gb.cd3682g0g1988a314db3g7a5764a58.Name = "Numbers_";
-fh9a32a3a15a89gb.cd3682g0g1988a314db3g7a5764a58.ZIndex = 4;
-fh9a32a3a15a89gb.cd3682g0g1988a314db3g7a5764a58.Size = UDim2.new(1, 0, 1, 0);
-fh9a32a3a15a89gb.cd3682g0g1988a314db3g7a5764a58.BorderColor3 = Color3.fromRGB(27, 42, 53);
-fh9a32a3a15a89gb.cd3682g0g1988a314db3g7a5764a58.ClipsDescendants = true;
-fh9a32a3a15a89gb.cd3682g0g1988a314db3g7a5764a58.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.cd3682g0g1988a314db3g7a5764a58.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.cd3682g0g1988a314db3g7a5764a58.TextYAlignment = Enum.TextYAlignment.Top;
-fh9a32a3a15a89gb.cd3682g0g1988a314db3g7a5764a58.TextColor3 = Color3.fromRGB(255, 198, 0);
-fh9a32a3a15a89gb.cd3682g0g1988a314db3g7a5764a58.Text = "";
-fh9a32a3a15a89gb.cd3682g0g1988a314db3g7a5764a58.TextXAlignment = Enum.TextXAlignment.Left;
-fh9a32a3a15a89gb.cd3682g0g1988a314db3g7a5764a58.TextSize = 14;
-fh9a32a3a15a89gb.cd3682g0g1988a314db3g7a5764a58.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.cd3682g0g1988a314db3g7a5764a58.Parent = fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68;
-
-fh9a32a3a15a89gb.h2db7fe3ghf.Name = "RemoteHighlight_";
-fh9a32a3a15a89gb.h2db7fe3ghf.ZIndex = 5;
-fh9a32a3a15a89gb.h2db7fe3ghf.Size = UDim2.new(1, 0, 1, 0);
-fh9a32a3a15a89gb.h2db7fe3ghf.BorderColor3 = Color3.fromRGB(27, 42, 53);
-fh9a32a3a15a89gb.h2db7fe3ghf.ClipsDescendants = true;
-fh9a32a3a15a89gb.h2db7fe3ghf.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.h2db7fe3ghf.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.h2db7fe3ghf.TextYAlignment = Enum.TextYAlignment.Top;
-fh9a32a3a15a89gb.h2db7fe3ghf.TextColor3 = Color3.fromRGB(11, 255, 203);
-fh9a32a3a15a89gb.h2db7fe3ghf.Text = "";
-fh9a32a3a15a89gb.h2db7fe3ghf.TextXAlignment = Enum.TextXAlignment.Left;
-fh9a32a3a15a89gb.h2db7fe3ghf.TextSize = 14;
-fh9a32a3a15a89gb.h2db7fe3ghf.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.h2db7fe3ghf.Parent = fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68;
-
-fh9a32a3a15a89gb.ch069c97bd8e.Name = "Strings_";
-fh9a32a3a15a89gb.ch069c97bd8e.ZIndex = 5;
-fh9a32a3a15a89gb.ch069c97bd8e.Size = UDim2.new(1, 0, 1, 0);
-fh9a32a3a15a89gb.ch069c97bd8e.BorderColor3 = Color3.fromRGB(27, 42, 53);
-fh9a32a3a15a89gb.ch069c97bd8e.ClipsDescendants = true;
-fh9a32a3a15a89gb.ch069c97bd8e.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.ch069c97bd8e.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.ch069c97bd8e.TextYAlignment = Enum.TextYAlignment.Top;
-fh9a32a3a15a89gb.ch069c97bd8e.TextColor3 = Color3.fromRGB(173, 241, 149);
-fh9a32a3a15a89gb.ch069c97bd8e.Text = "";
-fh9a32a3a15a89gb.ch069c97bd8e.TextXAlignment = Enum.TextXAlignment.Left;
-fh9a32a3a15a89gb.ch069c97bd8e.TextSize = 14;
-fh9a32a3a15a89gb.ch069c97bd8e.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.ch069c97bd8e.Parent = fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68;
-
-fh9a32a3a15a89gb.a2a235f9.Name = "Tokens_";
-fh9a32a3a15a89gb.a2a235f9.ZIndex = 5;
-fh9a32a3a15a89gb.a2a235f9.Size = UDim2.new(1, 0, 1, 0);
-fh9a32a3a15a89gb.a2a235f9.BorderColor3 = Color3.fromRGB(27, 42, 53);
-fh9a32a3a15a89gb.a2a235f9.ClipsDescendants = true;
-fh9a32a3a15a89gb.a2a235f9.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.a2a235f9.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.a2a235f9.TextYAlignment = Enum.TextYAlignment.Top;
-fh9a32a3a15a89gb.a2a235f9.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.a2a235f9.Text = "";
-fh9a32a3a15a89gb.a2a235f9.TextXAlignment = Enum.TextXAlignment.Left;
-fh9a32a3a15a89gb.a2a235f9.TextSize = 14;
-fh9a32a3a15a89gb.a2a235f9.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.a2a235f9.Parent = fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68;
-
-fh9a32a3a15a89gb.gff1dfe9b0e97879.Name = "UIAspectRatioConstraint";
-fh9a32a3a15a89gb.gff1dfe9b0e97879.Parent = fh9a32a3a15a89gb.c0dd7f57hc5hfh5f68;
-
-fh9a32a3a15a89gb.ahd6ec6333haa5gf001fah82.Name = "Lines";
-fh9a32a3a15a89gb.ahd6ec6333haa5gf001fah82.ZIndex = 4;
-fh9a32a3a15a89gb.ahd6ec6333haa5gf001fah82.Size = UDim2.new(-0.00999999978, 30, 1, 0);
-fh9a32a3a15a89gb.ahd6ec6333haa5gf001fah82.BorderColor3 = Color3.fromRGB(25, 25, 25);
-fh9a32a3a15a89gb.ahd6ec6333haa5gf001fah82.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.ahd6ec6333haa5gf001fah82.BackgroundColor3 = Color3.fromRGB(25, 25, 25);
-fh9a32a3a15a89gb.ahd6ec6333haa5gf001fah82.TextYAlignment = Enum.TextYAlignment.Top;
-fh9a32a3a15a89gb.ahd6ec6333haa5gf001fah82.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.ahd6ec6333haa5gf001fah82.Text = "1";
-fh9a32a3a15a89gb.ahd6ec6333haa5gf001fah82.TextSize = 15;
-fh9a32a3a15a89gb.ahd6ec6333haa5gf001fah82.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.ahd6ec6333haa5gf001fah82.Parent = fh9a32a3a15a89gb.fab8c9f9016774;
-
-fh9a32a3a15a89gb.g90dha8925d68ddd3he029d07c282a4.Name = "Execute";
-fh9a32a3a15a89gb.g90dha8925d68ddd3he029d07c282a4.Size = UDim2.new(0, 75, 0, 30);
-fh9a32a3a15a89gb.g90dha8925d68ddd3he029d07c282a4.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.g90dha8925d68ddd3he029d07c282a4.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.g90dha8925d68ddd3he029d07c282a4.Position = UDim2.new(0, 13, 0, 308);
-fh9a32a3a15a89gb.g90dha8925d68ddd3he029d07c282a4.BorderSizePixel = 0;
-fh9a32a3a15a89gb.g90dha8925d68ddd3he029d07c282a4.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.g90dha8925d68ddd3he029d07c282a4.ScaleType = Enum.ScaleType.Fit;
-fh9a32a3a15a89gb.g90dha8925d68ddd3he029d07c282a4.Image = "http://www.roblox.com/asset/?id=8517323790";
-fh9a32a3a15a89gb.g90dha8925d68ddd3he029d07c282a4.Parent = fh9a32a3a15a89gb.c10eb7e8g72g3edgh65h3238;
-
-fh9a32a3a15a89gb.g65b0b7bae.Name = "Background";
-fh9a32a3a15a89gb.g65b0b7bae.AnchorPoint = Vector2.new(0.5, 0.5);
-fh9a32a3a15a89gb.g65b0b7bae.Size = UDim2.new(0, 75, 0, 30);
-fh9a32a3a15a89gb.g65b0b7bae.BorderColor3 = Color3.fromRGB(27, 42, 53);
-fh9a32a3a15a89gb.g65b0b7bae.ClipsDescendants = true;
-fh9a32a3a15a89gb.g65b0b7bae.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.g65b0b7bae.Position = UDim2.new(0, 37, 0, 15);
-fh9a32a3a15a89gb.g65b0b7bae.BackgroundColor3 = Color3.fromRGB(80, 80, 80);
-fh9a32a3a15a89gb.g65b0b7bae.Parent = fh9a32a3a15a89gb.g90dha8925d68ddd3he029d07c282a4;
-
-fh9a32a3a15a89gb.g7g44ca16e5h2de60aba301f.Name = "Border";
-fh9a32a3a15a89gb.g7g44ca16e5h2de60aba301f.Color = Color3.fromRGB(70, 70, 70);
-fh9a32a3a15a89gb.g7g44ca16e5h2de60aba301f.Parent = fh9a32a3a15a89gb.g65b0b7bae;
-
-fh9a32a3a15a89gb.a0217f75.Name = "CornerRadius";
-fh9a32a3a15a89gb.a0217f75.CornerRadius = UDim.new(0, 4);
-fh9a32a3a15a89gb.a0217f75.Parent = fh9a32a3a15a89gb.g65b0b7bae;
-
-fh9a32a3a15a89gb.h1564aahee.Name = "UICorner";
-fh9a32a3a15a89gb.h1564aahee.CornerRadius = UDim.new(0, 4);
-fh9a32a3a15a89gb.h1564aahee.Parent = fh9a32a3a15a89gb.g90dha8925d68ddd3he029d07c282a4;
-
-fh9a32a3a15a89gb.gcd9h0284g7049g25bbe8f3aebf2h.Name = "Clear";
-fh9a32a3a15a89gb.gcd9h0284g7049g25bbe8f3aebf2h.Size = UDim2.new(0, 75, 0, 30);
-fh9a32a3a15a89gb.gcd9h0284g7049g25bbe8f3aebf2h.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.gcd9h0284g7049g25bbe8f3aebf2h.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.gcd9h0284g7049g25bbe8f3aebf2h.Position = UDim2.new(0, 100, 0, 308);
-fh9a32a3a15a89gb.gcd9h0284g7049g25bbe8f3aebf2h.BorderSizePixel = 0;
-fh9a32a3a15a89gb.gcd9h0284g7049g25bbe8f3aebf2h.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.gcd9h0284g7049g25bbe8f3aebf2h.ScaleType = Enum.ScaleType.Fit;
-fh9a32a3a15a89gb.gcd9h0284g7049g25bbe8f3aebf2h.Image = "http://www.roblox.com/asset/?id=16346922164";
-fh9a32a3a15a89gb.gcd9h0284g7049g25bbe8f3aebf2h.Parent = fh9a32a3a15a89gb.c10eb7e8g72g3edgh65h3238;
-
-fh9a32a3a15a89gb.c9h11dhda500ee3efgce96.Name = "Background";
-fh9a32a3a15a89gb.c9h11dhda500ee3efgce96.AnchorPoint = Vector2.new(0.5, 0.5);
-fh9a32a3a15a89gb.c9h11dhda500ee3efgce96.Size = UDim2.new(0, 75, 0, 30);
-fh9a32a3a15a89gb.c9h11dhda500ee3efgce96.BorderColor3 = Color3.fromRGB(27, 42, 53);
-fh9a32a3a15a89gb.c9h11dhda500ee3efgce96.ClipsDescendants = true;
-fh9a32a3a15a89gb.c9h11dhda500ee3efgce96.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.c9h11dhda500ee3efgce96.Position = UDim2.new(0, 37, 0, 15);
-fh9a32a3a15a89gb.c9h11dhda500ee3efgce96.BackgroundColor3 = Color3.fromRGB(80, 80, 80);
-fh9a32a3a15a89gb.c9h11dhda500ee3efgce96.Parent = fh9a32a3a15a89gb.gcd9h0284g7049g25bbe8f3aebf2h;
-
-fh9a32a3a15a89gb.cgagd46235be24h2ha79e9f78.Name = "Border";
-fh9a32a3a15a89gb.cgagd46235be24h2ha79e9f78.Color = Color3.fromRGB(70, 70, 70);
-fh9a32a3a15a89gb.cgagd46235be24h2ha79e9f78.Parent = fh9a32a3a15a89gb.c9h11dhda500ee3efgce96;
-
-fh9a32a3a15a89gb.c5c9gg8d1af135d7hbcd76cd1cgcdd.Name = "CornerRadius";
-fh9a32a3a15a89gb.c5c9gg8d1af135d7hbcd76cd1cgcdd.CornerRadius = UDim.new(0, 4);
-fh9a32a3a15a89gb.c5c9gg8d1af135d7hbcd76cd1cgcdd.Parent = fh9a32a3a15a89gb.c9h11dhda500ee3efgce96;
-
-fh9a32a3a15a89gb.d19a60ah3hg64a.Name = "UICorner";
-fh9a32a3a15a89gb.d19a60ah3hg64a.CornerRadius = UDim.new(0, 4);
-fh9a32a3a15a89gb.d19a60ah3hg64a.Parent = fh9a32a3a15a89gb.gcd9h0284g7049g25bbe8f3aebf2h;
-
-fh9a32a3a15a89gb.gdd85gf1bg3ba.Name = "Home";
-fh9a32a3a15a89gb.gdd85gf1bg3ba.Size = UDim2.new(0, 430, 0, 356);
-fh9a32a3a15a89gb.gdd85gf1bg3ba.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.gdd85gf1bg3ba.Position = UDim2.new(0.216902748, 0, 0.082452938, 0);
-fh9a32a3a15a89gb.gdd85gf1bg3ba.BorderSizePixel = 0;
-fh9a32a3a15a89gb.gdd85gf1bg3ba.BackgroundColor3 = Color3.fromRGB(34, 34, 34);
-fh9a32a3a15a89gb.gdd85gf1bg3ba.Parent = fh9a32a3a15a89gb.gcf251gdfhc5bd;
-
-fh9a32a3a15a89gb.hc7hhee35h731f723.Name = "TextLabel";
-fh9a32a3a15a89gb.hc7hhee35h731f723.Size = UDim2.new(0, 406, 0, 25);
-fh9a32a3a15a89gb.hc7hhee35h731f723.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.hc7hhee35h731f723.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.hc7hhee35h731f723.Position = UDim2.new(0, 0, 0.0224718247, 0);
-fh9a32a3a15a89gb.hc7hhee35h731f723.BorderSizePixel = 0;
-fh9a32a3a15a89gb.hc7hhee35h731f723.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.hc7hhee35h731f723.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.hc7hhee35h731f723.Text = "Hello, thank you for using Freezy! ";
-fh9a32a3a15a89gb.hc7hhee35h731f723.TextSize = 18;
-fh9a32a3a15a89gb.hc7hhee35h731f723.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.hc7hhee35h731f723.Parent = fh9a32a3a15a89gb.gdd85gf1bg3ba;
-
-fh9a32a3a15a89gb.gfeae.Name = "TextLabel";
-fh9a32a3a15a89gb.gfeae.Size = UDim2.new(0, 406, 0, 25);
-fh9a32a3a15a89gb.gfeae.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.gfeae.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.gfeae.Position = UDim2.new(0, 0, 0.0926965401, 0);
-fh9a32a3a15a89gb.gfeae.BorderSizePixel = 0;
-fh9a32a3a15a89gb.gfeae.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.gfeae.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.gfeae.Text = "We are still developing Freezy!";
-fh9a32a3a15a89gb.gfeae.TextSize = 18;
-fh9a32a3a15a89gb.gfeae.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.gfeae.Parent = fh9a32a3a15a89gb.gdd85gf1bg3ba;
-
-fh9a32a3a15a89gb.ch882da.Name = "TextLabel";
-fh9a32a3a15a89gb.ch882da.Size = UDim2.new(0, 406, 0, 25);
-fh9a32a3a15a89gb.ch882da.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.ch882da.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.ch882da.Position = UDim2.new(0, 0, 0.140449345, 0);
-fh9a32a3a15a89gb.ch882da.BorderSizePixel = 0;
-fh9a32a3a15a89gb.ch882da.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.ch882da.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.ch882da.Text = "_________________________________";
-fh9a32a3a15a89gb.ch882da.TextSize = 18;
-fh9a32a3a15a89gb.ch882da.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.ch882da.Parent = fh9a32a3a15a89gb.gdd85gf1bg3ba;
-
-fh9a32a3a15a89gb.h34b3hdbe62g5d9f38e9.Name = "TextLabel";
-fh9a32a3a15a89gb.h34b3hdbe62g5d9f38e9.Size = UDim2.new(0, 406, 0, 25);
-fh9a32a3a15a89gb.h34b3hdbe62g5d9f38e9.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.h34b3hdbe62g5d9f38e9.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.h34b3hdbe62g5d9f38e9.Position = UDim2.new(0, 0, 0.210674077, 0);
-fh9a32a3a15a89gb.h34b3hdbe62g5d9f38e9.BorderSizePixel = 0;
-fh9a32a3a15a89gb.h34b3hdbe62g5d9f38e9.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.h34b3hdbe62g5d9f38e9.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.h34b3hdbe62g5d9f38e9.Text = "[ Update Logs ]";
-fh9a32a3a15a89gb.h34b3hdbe62g5d9f38e9.TextSize = 18;
-fh9a32a3a15a89gb.h34b3hdbe62g5d9f38e9.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.h34b3hdbe62g5d9f38e9.Parent = fh9a32a3a15a89gb.gdd85gf1bg3ba;
-
-fh9a32a3a15a89gb.e7de9c1ac7f0g.Name = "TextLabel";
-fh9a32a3a15a89gb.e7de9c1ac7f0g.Size = UDim2.new(0, 406, 0, 25);
-fh9a32a3a15a89gb.e7de9c1ac7f0g.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.e7de9c1ac7f0g.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.e7de9c1ac7f0g.Position = UDim2.new(0.0209302325, 0, 0.28089878, 0);
-fh9a32a3a15a89gb.e7de9c1ac7f0g.BorderSizePixel = 0;
-fh9a32a3a15a89gb.e7de9c1ac7f0g.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.e7de9c1ac7f0g.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.e7de9c1ac7f0g.Text = "• Added Executor";
-fh9a32a3a15a89gb.e7de9c1ac7f0g.TextSize = 18;
-fh9a32a3a15a89gb.e7de9c1ac7f0g.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.e7de9c1ac7f0g.Parent = fh9a32a3a15a89gb.gdd85gf1bg3ba;
-
-fh9a32a3a15a89gb.acbd676hgha2f32e2.Name = "TextLabel";
-fh9a32a3a15a89gb.acbd676hgha2f32e2.Size = UDim2.new(0, 406, 0, 25);
-fh9a32a3a15a89gb.acbd676hgha2f32e2.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.acbd676hgha2f32e2.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.acbd676hgha2f32e2.Position = UDim2.new(0.0209302325, 0, 0.351123512, 0);
-fh9a32a3a15a89gb.acbd676hgha2f32e2.BorderSizePixel = 0;
-fh9a32a3a15a89gb.acbd676hgha2f32e2.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.acbd676hgha2f32e2.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.acbd676hgha2f32e2.Text = "• Added Script Hub";
-fh9a32a3a15a89gb.acbd676hgha2f32e2.TextSize = 18;
-fh9a32a3a15a89gb.acbd676hgha2f32e2.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.acbd676hgha2f32e2.Parent = fh9a32a3a15a89gb.gdd85gf1bg3ba;
-
-fh9a32a3a15a89gb.eg79c6433.Name = "TextLabel";
-fh9a32a3a15a89gb.eg79c6433.Size = UDim2.new(0, 406, 0, 25);
-fh9a32a3a15a89gb.eg79c6433.BorderColor3 = Color3.fromRGB(0, 0, 0);
-fh9a32a3a15a89gb.eg79c6433.BackgroundTransparency = 1;
-fh9a32a3a15a89gb.eg79c6433.Position = UDim2.new(0.0279069766, 0, 0.421348214, 0);
-fh9a32a3a15a89gb.eg79c6433.BorderSizePixel = 0;
-fh9a32a3a15a89gb.eg79c6433.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.eg79c6433.TextColor3 = Color3.fromRGB(255, 255, 255);
-fh9a32a3a15a89gb.eg79c6433.Text = "More Soon!";
-fh9a32a3a15a89gb.eg79c6433.TextSize = 18;
-fh9a32a3a15a89gb.eg79c6433.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
-fh9a32a3a15a89gb.eg79c6433.Parent = fh9a32a3a15a89gb.gdd85gf1bg3ba;
+g5b505fbb1cf291de2a63b.g55db54e2d.Name = "Freezy";
+g5b505fbb1cf291de2a63b.g55db54e2d.Parent = game:GetService("CoreGui");
+
+g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432.Name = "MainFrame";
+g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432.Size = UDim2.new(0, 550, 0, 390);
+g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432.Position = UDim2.new(0.401619226, 0, 0.263707578, 0);
+g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432.BackgroundColor3 = Color3.fromRGB(34, 34, 34);
+g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432.Parent = g5b505fbb1cf291de2a63b.g55db54e2d;
+
+g5b505fbb1cf291de2a63b.e5gh963448878gea4707ca.Name = "UICorner";
+g5b505fbb1cf291de2a63b.e5gh963448878gea4707ca.Parent = g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432;
+
+g5b505fbb1cf291de2a63b.ff91d964dag95.Name = "Title";
+g5b505fbb1cf291de2a63b.ff91d964dag95.Size = UDim2.new(0, 300, 0, 50);
+g5b505fbb1cf291de2a63b.ff91d964dag95.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.ff91d964dag95.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.ff91d964dag95.Position = UDim2.new(0.280470967, 0, -0.00176808366, 0);
+g5b505fbb1cf291de2a63b.ff91d964dag95.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.ff91d964dag95.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.ff91d964dag95.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.ff91d964dag95.Text = "Freezy - UI Build";
+g5b505fbb1cf291de2a63b.ff91d964dag95.TextSize = 18;
+g5b505fbb1cf291de2a63b.ff91d964dag95.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.ff91d964dag95.Parent = g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432;
+
+g5b505fbb1cf291de2a63b.fcha8ghf16b791h8b9202d5f22b3.Name = "Close";
+g5b505fbb1cf291de2a63b.fcha8ghf16b791h8b9202d5f22b3.Size = UDim2.new(0, 20, 0, 20);
+g5b505fbb1cf291de2a63b.fcha8ghf16b791h8b9202d5f22b3.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.fcha8ghf16b791h8b9202d5f22b3.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.fcha8ghf16b791h8b9202d5f22b3.Position = UDim2.new(0.936835051, 0, 0.0317948572, 0);
+g5b505fbb1cf291de2a63b.fcha8ghf16b791h8b9202d5f22b3.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.fcha8ghf16b791h8b9202d5f22b3.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.fcha8ghf16b791h8b9202d5f22b3.Image = "rbxassetid://10747384394";
+g5b505fbb1cf291de2a63b.fcha8ghf16b791h8b9202d5f22b3.Parent = g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432;
+
+g5b505fbb1cf291de2a63b.ae0h59eh18eee06g2835g5be6b3346g.Name = "Minimize";
+g5b505fbb1cf291de2a63b.ae0h59eh18eee06g2835g5be6b3346g.Size = UDim2.new(0, 33, 0, 22);
+g5b505fbb1cf291de2a63b.ae0h59eh18eee06g2835g5be6b3346g.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.ae0h59eh18eee06g2835g5be6b3346g.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.ae0h59eh18eee06g2835g5be6b3346g.Position = UDim2.new(0.84228915, 0, 0.0304345544, 0);
+g5b505fbb1cf291de2a63b.ae0h59eh18eee06g2835g5be6b3346g.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.ae0h59eh18eee06g2835g5be6b3346g.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.ae0h59eh18eee06g2835g5be6b3346g.Image = "rbxassetid://10734896206";
+g5b505fbb1cf291de2a63b.ae0h59eh18eee06g2835g5be6b3346g.Parent = g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432;
+
+g5b505fbb1cf291de2a63b.hg3ef608d6a3578497.Name = "ScriptHub";
+g5b505fbb1cf291de2a63b.hg3ef608d6a3578497.Size = UDim2.new(0, 430, 0, 356);
+g5b505fbb1cf291de2a63b.hg3ef608d6a3578497.Visible = false;
+g5b505fbb1cf291de2a63b.hg3ef608d6a3578497.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.hg3ef608d6a3578497.Position = UDim2.new(0.216902748, 0, 0.082452938, 0);
+g5b505fbb1cf291de2a63b.hg3ef608d6a3578497.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.hg3ef608d6a3578497.BackgroundColor3 = Color3.fromRGB(34, 34, 34);
+g5b505fbb1cf291de2a63b.hg3ef608d6a3578497.Parent = g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432;
+
+g5b505fbb1cf291de2a63b.bdg10g1f.Name = "Scroll";
+g5b505fbb1cf291de2a63b.bdg10g1f.Size = UDim2.new(0, 413, 0, 341);
+g5b505fbb1cf291de2a63b.bdg10g1f.BorderColor3 = Color3.fromRGB(61, 61, 61);
+g5b505fbb1cf291de2a63b.bdg10g1f.Position = UDim2.new(0, 9, 0, 12);
+g5b505fbb1cf291de2a63b.bdg10g1f.BackgroundColor3 = Color3.fromRGB(37, 37, 37);
+g5b505fbb1cf291de2a63b.bdg10g1f.MidImage = "rbxassetid://148970562";
+g5b505fbb1cf291de2a63b.bdg10g1f.ScrollBarThickness = 5;
+g5b505fbb1cf291de2a63b.bdg10g1f.TopImage = "rbxassetid://148970562";
+g5b505fbb1cf291de2a63b.bdg10g1f.BottomImage = "rbxassetid://148970562";
+g5b505fbb1cf291de2a63b.bdg10g1f.HorizontalScrollBarInset = Enum.ScrollBarInset.ScrollBar;
+g5b505fbb1cf291de2a63b.bdg10g1f.CanvasSize = UDim2.new(0, 0, 3, 0);
+g5b505fbb1cf291de2a63b.bdg10g1f.Parent = g5b505fbb1cf291de2a63b.hg3ef608d6a3578497;
+
+g5b505fbb1cf291de2a63b.c9dh771ea8h3b1d9.Name = "AzureModded";
+g5b505fbb1cf291de2a63b.c9dh771ea8h3b1d9.Size = UDim2.new(0, 278, 0, 50);
+g5b505fbb1cf291de2a63b.c9dh771ea8h3b1d9.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.c9dh771ea8h3b1d9.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.c9dh771ea8h3b1d9.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.c9dh771ea8h3b1d9.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.c9dh771ea8h3b1d9.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.c9dh771ea8h3b1d9.Text = "Azure Modded.lua";
+g5b505fbb1cf291de2a63b.c9dh771ea8h3b1d9.TextSize = 14;
+g5b505fbb1cf291de2a63b.c9dh771ea8h3b1d9.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.c9dh771ea8h3b1d9.Parent = g5b505fbb1cf291de2a63b.bdg10g1f;
+
+g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g.Name = "AzureExecute";
+g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g.Size = UDim2.new(0, 130, 0, 25);
+g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g.Position = UDim2.new(0.179176763, 0, 0.0594732128, 0);
+g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g.Text = "Execute";
+g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g.TextSize = 14;
+g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g.Parent = g5b505fbb1cf291de2a63b.bdg10g1f;
+
+g5b505fbb1cf291de2a63b.cabd7d268dheg0690fb04a.Name = "Background";
+g5b505fbb1cf291de2a63b.cabd7d268dheg0690fb04a.AnchorPoint = Vector2.new(0.5, 0.5);
+g5b505fbb1cf291de2a63b.cabd7d268dheg0690fb04a.Size = UDim2.new(0, 130, 0, 25);
+g5b505fbb1cf291de2a63b.cabd7d268dheg0690fb04a.BorderColor3 = Color3.fromRGB(27, 42, 53);
+g5b505fbb1cf291de2a63b.cabd7d268dheg0690fb04a.ClipsDescendants = true;
+g5b505fbb1cf291de2a63b.cabd7d268dheg0690fb04a.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.cabd7d268dheg0690fb04a.Position = UDim2.new(0, 64, 0, 12);
+g5b505fbb1cf291de2a63b.cabd7d268dheg0690fb04a.BackgroundColor3 = Color3.fromRGB(80, 80, 80);
+g5b505fbb1cf291de2a63b.cabd7d268dheg0690fb04a.Parent = g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g;
+
+g5b505fbb1cf291de2a63b.bfe16faf08hh6h30539.Name = "Border";
+g5b505fbb1cf291de2a63b.bfe16faf08hh6h30539.Color = Color3.fromRGB(70, 70, 70);
+g5b505fbb1cf291de2a63b.bfe16faf08hh6h30539.Parent = g5b505fbb1cf291de2a63b.cabd7d268dheg0690fb04a;
+
+g5b505fbb1cf291de2a63b.gch3f.Name = "CornerRadius";
+g5b505fbb1cf291de2a63b.gch3f.CornerRadius = UDim.new(0, 4);
+g5b505fbb1cf291de2a63b.gch3f.Parent = g5b505fbb1cf291de2a63b.cabd7d268dheg0690fb04a;
+
+g5b505fbb1cf291de2a63b.e34aec0fcce6h7298099f52.Name = "UICorner";
+g5b505fbb1cf291de2a63b.e34aec0fcce6h7298099f52.CornerRadius = UDim.new(0, 4);
+g5b505fbb1cf291de2a63b.e34aec0fcce6h7298099f52.Parent = g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g;
+
+g5b505fbb1cf291de2a63b.e6b4chad2gh7g0cfadb130a15ge59479.Name = "Drax";
+g5b505fbb1cf291de2a63b.e6b4chad2gh7g0cfadb130a15ge59479.Size = UDim2.new(0, 278, 0, 50);
+g5b505fbb1cf291de2a63b.e6b4chad2gh7g0cfadb130a15ge59479.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.e6b4chad2gh7g0cfadb130a15ge59479.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.e6b4chad2gh7g0cfadb130a15ge59479.Position = UDim2.new(0.0217917673, 0, 0.0821114406, 0);
+g5b505fbb1cf291de2a63b.e6b4chad2gh7g0cfadb130a15ge59479.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.e6b4chad2gh7g0cfadb130a15ge59479.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.e6b4chad2gh7g0cfadb130a15ge59479.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.e6b4chad2gh7g0cfadb130a15ge59479.Text = "Drax.lua";
+g5b505fbb1cf291de2a63b.e6b4chad2gh7g0cfadb130a15ge59479.TextSize = 14;
+g5b505fbb1cf291de2a63b.e6b4chad2gh7g0cfadb130a15ge59479.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.e6b4chad2gh7g0cfadb130a15ge59479.Parent = g5b505fbb1cf291de2a63b.bdg10g1f;
+
+g5b505fbb1cf291de2a63b.dggdf8.Name = "DraxExecute";
+g5b505fbb1cf291de2a63b.dggdf8.Size = UDim2.new(0, 130, 0, 25);
+g5b505fbb1cf291de2a63b.dggdf8.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.dggdf8.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.dggdf8.Position = UDim2.new(0.179176763, 0, 0.144872755, 0);
+g5b505fbb1cf291de2a63b.dggdf8.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.dggdf8.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.dggdf8.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.dggdf8.Text = "Execute";
+g5b505fbb1cf291de2a63b.dggdf8.TextSize = 14;
+g5b505fbb1cf291de2a63b.dggdf8.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.dggdf8.Parent = g5b505fbb1cf291de2a63b.bdg10g1f;
+
+g5b505fbb1cf291de2a63b.ee256d.Name = "Background";
+g5b505fbb1cf291de2a63b.ee256d.AnchorPoint = Vector2.new(0.5, 0.5);
+g5b505fbb1cf291de2a63b.ee256d.Size = UDim2.new(0, 130, 0, 25);
+g5b505fbb1cf291de2a63b.ee256d.BorderColor3 = Color3.fromRGB(27, 42, 53);
+g5b505fbb1cf291de2a63b.ee256d.ClipsDescendants = true;
+g5b505fbb1cf291de2a63b.ee256d.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.ee256d.Position = UDim2.new(0, 64, 0, 12);
+g5b505fbb1cf291de2a63b.ee256d.BackgroundColor3 = Color3.fromRGB(80, 80, 80);
+g5b505fbb1cf291de2a63b.ee256d.Parent = g5b505fbb1cf291de2a63b.dggdf8;
+
+g5b505fbb1cf291de2a63b.a62f001f.Name = "Border";
+g5b505fbb1cf291de2a63b.a62f001f.Color = Color3.fromRGB(70, 70, 70);
+g5b505fbb1cf291de2a63b.a62f001f.Parent = g5b505fbb1cf291de2a63b.ee256d;
+
+g5b505fbb1cf291de2a63b.bcg47hd15fbe9d239c096a4a6a25g9.Name = "CornerRadius";
+g5b505fbb1cf291de2a63b.bcg47hd15fbe9d239c096a4a6a25g9.CornerRadius = UDim.new(0, 4);
+g5b505fbb1cf291de2a63b.bcg47hd15fbe9d239c096a4a6a25g9.Parent = g5b505fbb1cf291de2a63b.ee256d;
+
+g5b505fbb1cf291de2a63b.a50d38b2a.Name = "UICorner";
+g5b505fbb1cf291de2a63b.a50d38b2a.CornerRadius = UDim.new(0, 4);
+g5b505fbb1cf291de2a63b.a50d38b2a.Parent = g5b505fbb1cf291de2a63b.dggdf8;
+
+g5b505fbb1cf291de2a63b.fae84d659.Name = "Drax";
+g5b505fbb1cf291de2a63b.fae84d659.Size = UDim2.new(0, 278, 0, 50);
+g5b505fbb1cf291de2a63b.fae84d659.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.fae84d659.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.fae84d659.Position = UDim2.new(0.0363196135, 0, 0.177991226, 0);
+g5b505fbb1cf291de2a63b.fae84d659.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.fae84d659.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.fae84d659.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.fae84d659.Text = "Lunar.lua";
+g5b505fbb1cf291de2a63b.fae84d659.TextSize = 14;
+g5b505fbb1cf291de2a63b.fae84d659.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.fae84d659.Parent = g5b505fbb1cf291de2a63b.bdg10g1f;
+
+g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h.Name = "LunarExecute";
+g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h.Size = UDim2.new(0, 130, 0, 25);
+g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h.Position = UDim2.new(0.215496361, 0, 0.239660084, 0);
+g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h.Text = "Execute";
+g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h.TextSize = 14;
+g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h.Parent = g5b505fbb1cf291de2a63b.bdg10g1f;
+
+g5b505fbb1cf291de2a63b.aad53d2553595275f8767.Name = "Background";
+g5b505fbb1cf291de2a63b.aad53d2553595275f8767.AnchorPoint = Vector2.new(0.5, 0.5);
+g5b505fbb1cf291de2a63b.aad53d2553595275f8767.Size = UDim2.new(0, 130, 0, 25);
+g5b505fbb1cf291de2a63b.aad53d2553595275f8767.BorderColor3 = Color3.fromRGB(27, 42, 53);
+g5b505fbb1cf291de2a63b.aad53d2553595275f8767.ClipsDescendants = true;
+g5b505fbb1cf291de2a63b.aad53d2553595275f8767.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.aad53d2553595275f8767.Position = UDim2.new(0, 64, 0, 12);
+g5b505fbb1cf291de2a63b.aad53d2553595275f8767.BackgroundColor3 = Color3.fromRGB(80, 80, 80);
+g5b505fbb1cf291de2a63b.aad53d2553595275f8767.Parent = g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h;
+
+g5b505fbb1cf291de2a63b.cc91689618e8bd7.Name = "Border";
+g5b505fbb1cf291de2a63b.cc91689618e8bd7.Color = Color3.fromRGB(70, 70, 70);
+g5b505fbb1cf291de2a63b.cc91689618e8bd7.Parent = g5b505fbb1cf291de2a63b.aad53d2553595275f8767;
+
+g5b505fbb1cf291de2a63b.e6a872ah79g3h79bb543h9a6b962c3h1.Name = "CornerRadius";
+g5b505fbb1cf291de2a63b.e6a872ah79g3h79bb543h9a6b962c3h1.CornerRadius = UDim.new(0, 4);
+g5b505fbb1cf291de2a63b.e6a872ah79g3h79bb543h9a6b962c3h1.Parent = g5b505fbb1cf291de2a63b.aad53d2553595275f8767;
+
+g5b505fbb1cf291de2a63b.cggdgh2g.Name = "UICorner";
+g5b505fbb1cf291de2a63b.cggdgh2g.CornerRadius = UDim.new(0, 4);
+g5b505fbb1cf291de2a63b.cggdgh2g.Parent = g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h;
+
+g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h.Name = "SearchBar";
+g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h.Size = UDim2.new(0, 406, 0, 20);
+g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h.Position = UDim2.new(0.0209302325, 0, 0.0224719103, 0);
+g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h.BackgroundColor3 = Color3.fromRGB(29, 29, 29);
+g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h.CursorPosition = -1;
+g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h.PlaceholderColor3 = Color3.fromRGB(178, 178, 178);
+g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h.PlaceholderText = "Search";
+g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h.TextSize = 14;
+g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h.TextColor3 = Color3.fromRGB(178, 178, 178);
+g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h.Text = "";
+g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h.Parent = g5b505fbb1cf291de2a63b.hg3ef608d6a3578497;
+
+g5b505fbb1cf291de2a63b.e77chc.Name = "UICorner";
+g5b505fbb1cf291de2a63b.e77chc.Parent = g5b505fbb1cf291de2a63b.gca6h44b5c25bbfe6314d5f9h;
+
+g5b505fbb1cf291de2a63b.e6fgd6.Name = "Sidebar";
+g5b505fbb1cf291de2a63b.e6fgd6.Size = UDim2.new(0, 120, 0, 389);
+g5b505fbb1cf291de2a63b.e6fgd6.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.e6fgd6.Position = UDim2.new(-0.000198974609, 0, 0.000910519331, 0);
+g5b505fbb1cf291de2a63b.e6fgd6.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.e6fgd6.BackgroundColor3 = Color3.fromRGB(38, 38, 38);
+g5b505fbb1cf291de2a63b.e6fgd6.Parent = g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432;
+
+g5b505fbb1cf291de2a63b.c41dcd06fh44f9h6.Name = "UICorner";
+g5b505fbb1cf291de2a63b.c41dcd06fh44f9h6.Parent = g5b505fbb1cf291de2a63b.e6fgd6;
+
+g5b505fbb1cf291de2a63b.g1c14a4687be.Name = "ExecutorLabel";
+g5b505fbb1cf291de2a63b.g1c14a4687be.Size = UDim2.new(0, 20, 0, 20);
+g5b505fbb1cf291de2a63b.g1c14a4687be.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.g1c14a4687be.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.g1c14a4687be.Position = UDim2.new(0.0790405273, 0, 0.195372745, 0);
+g5b505fbb1cf291de2a63b.g1c14a4687be.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.g1c14a4687be.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.g1c14a4687be.Image = "rbxassetid://10709807111";
+g5b505fbb1cf291de2a63b.g1c14a4687be.Parent = g5b505fbb1cf291de2a63b.e6fgd6;
+
+g5b505fbb1cf291de2a63b.g9324acacgfahgh.Name = "UIAspectRatioConstraint";
+g5b505fbb1cf291de2a63b.g9324acacgfahgh.Parent = g5b505fbb1cf291de2a63b.g1c14a4687be;
+
+g5b505fbb1cf291de2a63b.g136dch.Name = "HomeLabel";
+g5b505fbb1cf291de2a63b.g136dch.Size = UDim2.new(0, 20, 0, 20);
+g5b505fbb1cf291de2a63b.g136dch.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.g136dch.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.g136dch.Position = UDim2.new(0.0790405273, 0, 0.115681231, 0);
+g5b505fbb1cf291de2a63b.g136dch.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.g136dch.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.g136dch.Image = "rbxassetid://10723407389";
+g5b505fbb1cf291de2a63b.g136dch.Parent = g5b505fbb1cf291de2a63b.e6fgd6;
+
+g5b505fbb1cf291de2a63b.ef9d3f556hd0c3a7bd.Name = "UIAspectRatioConstraint";
+g5b505fbb1cf291de2a63b.ef9d3f556hd0c3a7bd.Parent = g5b505fbb1cf291de2a63b.g136dch;
+
+g5b505fbb1cf291de2a63b.e8311hhc825.Name = "ExecutorLabel";
+g5b505fbb1cf291de2a63b.e8311hhc825.Size = UDim2.new(0, 20, 0, 20);
+g5b505fbb1cf291de2a63b.e8311hhc825.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.e8311hhc825.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.e8311hhc825.Position = UDim2.new(0.0790405273, 0, 0.27506426, 0);
+g5b505fbb1cf291de2a63b.e8311hhc825.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.e8311hhc825.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.e8311hhc825.Image = "rbxassetid://10734943448";
+g5b505fbb1cf291de2a63b.e8311hhc825.Parent = g5b505fbb1cf291de2a63b.e6fgd6;
+
+g5b505fbb1cf291de2a63b.f54d08b6739aef4c06f188d82gbghef.Name = "UIAspectRatioConstraint";
+g5b505fbb1cf291de2a63b.f54d08b6739aef4c06f188d82gbghef.Parent = g5b505fbb1cf291de2a63b.e8311hhc825;
+
+g5b505fbb1cf291de2a63b.eb02g5ccg8b70f7455.Name = "Info";
+g5b505fbb1cf291de2a63b.eb02g5ccg8b70f7455.Size = UDim2.new(0, 119, 0, 22);
+g5b505fbb1cf291de2a63b.eb02g5ccg8b70f7455.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.eb02g5ccg8b70f7455.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.eb02g5ccg8b70f7455.Position = UDim2.new(0.00833384227, 0, 0.0308483299, 0);
+g5b505fbb1cf291de2a63b.eb02g5ccg8b70f7455.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.eb02g5ccg8b70f7455.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.eb02g5ccg8b70f7455.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.eb02g5ccg8b70f7455.Text = "Info";
+g5b505fbb1cf291de2a63b.eb02g5ccg8b70f7455.TextSize = 14;
+g5b505fbb1cf291de2a63b.eb02g5ccg8b70f7455.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.eb02g5ccg8b70f7455.Parent = g5b505fbb1cf291de2a63b.e6fgd6;
+
+g5b505fbb1cf291de2a63b.he4a6c367bbh3.Name = "ExecutorLabel";
+g5b505fbb1cf291de2a63b.he4a6c367bbh3.Size = UDim2.new(0, 119, 0, 22);
+g5b505fbb1cf291de2a63b.he4a6c367bbh3.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.he4a6c367bbh3.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.he4a6c367bbh3.Position = UDim2.new(0.00800000038, 0, 0.189999998, 0);
+g5b505fbb1cf291de2a63b.he4a6c367bbh3.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.he4a6c367bbh3.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.he4a6c367bbh3.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.he4a6c367bbh3.Text = "   Executor";
+g5b505fbb1cf291de2a63b.he4a6c367bbh3.TextSize = 14;
+g5b505fbb1cf291de2a63b.he4a6c367bbh3.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.he4a6c367bbh3.Parent = g5b505fbb1cf291de2a63b.e6fgd6;
+
+g5b505fbb1cf291de2a63b.h8ah66264bf8116ga875h05h09f9b.Name = "HomeLabel";
+g5b505fbb1cf291de2a63b.h8ah66264bf8116ga875h05h09f9b.Size = UDim2.new(0, 119, 0, 22);
+g5b505fbb1cf291de2a63b.h8ah66264bf8116ga875h05h09f9b.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.h8ah66264bf8116ga875h05h09f9b.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.h8ah66264bf8116ga875h05h09f9b.Position = UDim2.new(0.00799992867, 0, 0.115449883, 0);
+g5b505fbb1cf291de2a63b.h8ah66264bf8116ga875h05h09f9b.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.h8ah66264bf8116ga875h05h09f9b.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.h8ah66264bf8116ga875h05h09f9b.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.h8ah66264bf8116ga875h05h09f9b.Text = "Home";
+g5b505fbb1cf291de2a63b.h8ah66264bf8116ga875h05h09f9b.TextSize = 14;
+g5b505fbb1cf291de2a63b.h8ah66264bf8116ga875h05h09f9b.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.h8ah66264bf8116ga875h05h09f9b.Parent = g5b505fbb1cf291de2a63b.e6fgd6;
+
+g5b505fbb1cf291de2a63b.cd1hhg.Name = "ScriptHubLabel";
+g5b505fbb1cf291de2a63b.cd1hhg.Size = UDim2.new(0, 119, 0, 22);
+g5b505fbb1cf291de2a63b.cd1hhg.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.cd1hhg.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.cd1hhg.Position = UDim2.new(0.00799992867, 0, 0.269691527, 0);
+g5b505fbb1cf291de2a63b.cd1hhg.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.cd1hhg.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.cd1hhg.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.cd1hhg.Text = "    Script Hub";
+g5b505fbb1cf291de2a63b.cd1hhg.TextSize = 14;
+g5b505fbb1cf291de2a63b.cd1hhg.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.cd1hhg.Parent = g5b505fbb1cf291de2a63b.e6fgd6;
+
+g5b505fbb1cf291de2a63b.g07ee.Name = "Executor";
+g5b505fbb1cf291de2a63b.g07ee.Size = UDim2.new(0, 430, 0, 356);
+g5b505fbb1cf291de2a63b.g07ee.Visible = false;
+g5b505fbb1cf291de2a63b.g07ee.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.g07ee.Position = UDim2.new(0.216902748, 0, 0.082452938, 0);
+g5b505fbb1cf291de2a63b.g07ee.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.g07ee.BackgroundColor3 = Color3.fromRGB(34, 34, 34);
+g5b505fbb1cf291de2a63b.g07ee.Parent = g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432;
+
+g5b505fbb1cf291de2a63b.d6bd09ad.Name = "Scroll";
+g5b505fbb1cf291de2a63b.d6bd09ad.Size = UDim2.new(0, 402, 0, 279);
+g5b505fbb1cf291de2a63b.d6bd09ad.BorderColor3 = Color3.fromRGB(61, 61, 61);
+g5b505fbb1cf291de2a63b.d6bd09ad.Position = UDim2.new(0, 13, 0, 13);
+g5b505fbb1cf291de2a63b.d6bd09ad.BackgroundColor3 = Color3.fromRGB(37, 37, 37);
+g5b505fbb1cf291de2a63b.d6bd09ad.MidImage = "rbxassetid://148970562";
+g5b505fbb1cf291de2a63b.d6bd09ad.ScrollBarThickness = 5;
+g5b505fbb1cf291de2a63b.d6bd09ad.TopImage = "rbxassetid://148970562";
+g5b505fbb1cf291de2a63b.d6bd09ad.BottomImage = "rbxassetid://148970562";
+g5b505fbb1cf291de2a63b.d6bd09ad.HorizontalScrollBarInset = Enum.ScrollBarInset.ScrollBar;
+g5b505fbb1cf291de2a63b.d6bd09ad.CanvasSize = UDim2.new(0, 0, 3, 0);
+g5b505fbb1cf291de2a63b.d6bd09ad.Parent = g5b505fbb1cf291de2a63b.g07ee;
+
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.Name = "CodeBox";
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.Size = UDim2.new(0.890181243, 0, 42092.918, 0);
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.Position = UDim2.new(0, 25, 0, 0);
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.BackgroundColor3 = Color3.fromRGB(22, 22, 22);
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.MultiLine = true;
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.PlaceholderColor3 = Color3.fromRGB(204, 204, 204);
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.TextSize = 14;
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.TextYAlignment = Enum.TextYAlignment.Top;
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.Text = "-- Execute your scripts here";
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.TextWrapped = true;
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.TextXAlignment = Enum.TextXAlignment.Left;
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.ClearTextOnFocus = false;
+g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e.Parent = g5b505fbb1cf291de2a63b.d6bd09ad;
+
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.Name = "Comments_";
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.ZIndex = 5;
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.Size = UDim2.new(1, 0, 1, 0);
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.BorderColor3 = Color3.fromRGB(27, 42, 53);
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.ClipsDescendants = true;
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.TextYAlignment = Enum.TextYAlignment.Top;
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.TextColor3 = Color3.fromRGB(86, 86, 86);
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.Text = "";
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.TextXAlignment = Enum.TextXAlignment.Left;
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.TextSize = 14;
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.TextTransparency = 1;
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.b41585hgfgg6c51.Parent = g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e;
+
+g5b505fbb1cf291de2a63b.ae4f24e7cd686e40ac1a6df0.Name = "Globals_";
+g5b505fbb1cf291de2a63b.ae4f24e7cd686e40ac1a6df0.ZIndex = 5;
+g5b505fbb1cf291de2a63b.ae4f24e7cd686e40ac1a6df0.Size = UDim2.new(1, 0, 1, 0);
+g5b505fbb1cf291de2a63b.ae4f24e7cd686e40ac1a6df0.BorderColor3 = Color3.fromRGB(27, 42, 53);
+g5b505fbb1cf291de2a63b.ae4f24e7cd686e40ac1a6df0.ClipsDescendants = true;
+g5b505fbb1cf291de2a63b.ae4f24e7cd686e40ac1a6df0.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.ae4f24e7cd686e40ac1a6df0.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.ae4f24e7cd686e40ac1a6df0.TextYAlignment = Enum.TextYAlignment.Top;
+g5b505fbb1cf291de2a63b.ae4f24e7cd686e40ac1a6df0.TextColor3 = Color3.fromRGB(132, 214, 247);
+g5b505fbb1cf291de2a63b.ae4f24e7cd686e40ac1a6df0.Text = "";
+g5b505fbb1cf291de2a63b.ae4f24e7cd686e40ac1a6df0.TextXAlignment = Enum.TextXAlignment.Left;
+g5b505fbb1cf291de2a63b.ae4f24e7cd686e40ac1a6df0.TextSize = 14;
+g5b505fbb1cf291de2a63b.ae4f24e7cd686e40ac1a6df0.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.ae4f24e7cd686e40ac1a6df0.Parent = g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e;
+
+g5b505fbb1cf291de2a63b.f0908fabc099dea0cbbg49bae6.Name = "Keywords_";
+g5b505fbb1cf291de2a63b.f0908fabc099dea0cbbg49bae6.ZIndex = 5;
+g5b505fbb1cf291de2a63b.f0908fabc099dea0cbbg49bae6.Size = UDim2.new(1, 0, 1, 0);
+g5b505fbb1cf291de2a63b.f0908fabc099dea0cbbg49bae6.BorderColor3 = Color3.fromRGB(27, 42, 53);
+g5b505fbb1cf291de2a63b.f0908fabc099dea0cbbg49bae6.ClipsDescendants = true;
+g5b505fbb1cf291de2a63b.f0908fabc099dea0cbbg49bae6.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.f0908fabc099dea0cbbg49bae6.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.f0908fabc099dea0cbbg49bae6.TextYAlignment = Enum.TextYAlignment.Top;
+g5b505fbb1cf291de2a63b.f0908fabc099dea0cbbg49bae6.TextColor3 = Color3.fromRGB(248, 109, 124);
+g5b505fbb1cf291de2a63b.f0908fabc099dea0cbbg49bae6.Text = "";
+g5b505fbb1cf291de2a63b.f0908fabc099dea0cbbg49bae6.TextXAlignment = Enum.TextXAlignment.Left;
+g5b505fbb1cf291de2a63b.f0908fabc099dea0cbbg49bae6.TextSize = 14;
+g5b505fbb1cf291de2a63b.f0908fabc099dea0cbbg49bae6.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.f0908fabc099dea0cbbg49bae6.Parent = g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e;
+
+g5b505fbb1cf291de2a63b.c1a368d451feh88371bfd87f7.Name = "Numbers_";
+g5b505fbb1cf291de2a63b.c1a368d451feh88371bfd87f7.ZIndex = 4;
+g5b505fbb1cf291de2a63b.c1a368d451feh88371bfd87f7.Size = UDim2.new(1, 0, 1, 0);
+g5b505fbb1cf291de2a63b.c1a368d451feh88371bfd87f7.BorderColor3 = Color3.fromRGB(27, 42, 53);
+g5b505fbb1cf291de2a63b.c1a368d451feh88371bfd87f7.ClipsDescendants = true;
+g5b505fbb1cf291de2a63b.c1a368d451feh88371bfd87f7.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.c1a368d451feh88371bfd87f7.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.c1a368d451feh88371bfd87f7.TextYAlignment = Enum.TextYAlignment.Top;
+g5b505fbb1cf291de2a63b.c1a368d451feh88371bfd87f7.TextColor3 = Color3.fromRGB(255, 198, 0);
+g5b505fbb1cf291de2a63b.c1a368d451feh88371bfd87f7.Text = "";
+g5b505fbb1cf291de2a63b.c1a368d451feh88371bfd87f7.TextXAlignment = Enum.TextXAlignment.Left;
+g5b505fbb1cf291de2a63b.c1a368d451feh88371bfd87f7.TextSize = 14;
+g5b505fbb1cf291de2a63b.c1a368d451feh88371bfd87f7.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.c1a368d451feh88371bfd87f7.Parent = g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e;
+
+g5b505fbb1cf291de2a63b.dahdceg5714.Name = "RemoteHighlight_";
+g5b505fbb1cf291de2a63b.dahdceg5714.ZIndex = 5;
+g5b505fbb1cf291de2a63b.dahdceg5714.Size = UDim2.new(1, 0, 1, 0);
+g5b505fbb1cf291de2a63b.dahdceg5714.BorderColor3 = Color3.fromRGB(27, 42, 53);
+g5b505fbb1cf291de2a63b.dahdceg5714.ClipsDescendants = true;
+g5b505fbb1cf291de2a63b.dahdceg5714.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.dahdceg5714.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.dahdceg5714.TextYAlignment = Enum.TextYAlignment.Top;
+g5b505fbb1cf291de2a63b.dahdceg5714.TextColor3 = Color3.fromRGB(11, 255, 203);
+g5b505fbb1cf291de2a63b.dahdceg5714.Text = "";
+g5b505fbb1cf291de2a63b.dahdceg5714.TextXAlignment = Enum.TextXAlignment.Left;
+g5b505fbb1cf291de2a63b.dahdceg5714.TextSize = 14;
+g5b505fbb1cf291de2a63b.dahdceg5714.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.dahdceg5714.Parent = g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e;
+
+g5b505fbb1cf291de2a63b.fd014017d83d.Name = "Strings_";
+g5b505fbb1cf291de2a63b.fd014017d83d.ZIndex = 5;
+g5b505fbb1cf291de2a63b.fd014017d83d.Size = UDim2.new(1, 0, 1, 0);
+g5b505fbb1cf291de2a63b.fd014017d83d.BorderColor3 = Color3.fromRGB(27, 42, 53);
+g5b505fbb1cf291de2a63b.fd014017d83d.ClipsDescendants = true;
+g5b505fbb1cf291de2a63b.fd014017d83d.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.fd014017d83d.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.fd014017d83d.TextYAlignment = Enum.TextYAlignment.Top;
+g5b505fbb1cf291de2a63b.fd014017d83d.TextColor3 = Color3.fromRGB(173, 241, 149);
+g5b505fbb1cf291de2a63b.fd014017d83d.Text = "";
+g5b505fbb1cf291de2a63b.fd014017d83d.TextXAlignment = Enum.TextXAlignment.Left;
+g5b505fbb1cf291de2a63b.fd014017d83d.TextSize = 14;
+g5b505fbb1cf291de2a63b.fd014017d83d.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.fd014017d83d.Parent = g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e;
+
+g5b505fbb1cf291de2a63b.f8dc815f8b821c29g8hb5b.Name = "Tokens_";
+g5b505fbb1cf291de2a63b.f8dc815f8b821c29g8hb5b.ZIndex = 5;
+g5b505fbb1cf291de2a63b.f8dc815f8b821c29g8hb5b.Size = UDim2.new(1, 0, 1, 0);
+g5b505fbb1cf291de2a63b.f8dc815f8b821c29g8hb5b.BorderColor3 = Color3.fromRGB(27, 42, 53);
+g5b505fbb1cf291de2a63b.f8dc815f8b821c29g8hb5b.ClipsDescendants = true;
+g5b505fbb1cf291de2a63b.f8dc815f8b821c29g8hb5b.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.f8dc815f8b821c29g8hb5b.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.f8dc815f8b821c29g8hb5b.TextYAlignment = Enum.TextYAlignment.Top;
+g5b505fbb1cf291de2a63b.f8dc815f8b821c29g8hb5b.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.f8dc815f8b821c29g8hb5b.Text = "";
+g5b505fbb1cf291de2a63b.f8dc815f8b821c29g8hb5b.TextXAlignment = Enum.TextXAlignment.Left;
+g5b505fbb1cf291de2a63b.f8dc815f8b821c29g8hb5b.TextSize = 14;
+g5b505fbb1cf291de2a63b.f8dc815f8b821c29g8hb5b.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.f8dc815f8b821c29g8hb5b.Parent = g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e;
+
+g5b505fbb1cf291de2a63b.hd6he3df1h793f5ghc2h.Name = "UIAspectRatioConstraint";
+g5b505fbb1cf291de2a63b.hd6he3df1h793f5ghc2h.Parent = g5b505fbb1cf291de2a63b.h8aga466hce3g0df770dbf3e;
+
+g5b505fbb1cf291de2a63b.eg3gg26f2952b44639c2g835530b0hd.Name = "Lines";
+g5b505fbb1cf291de2a63b.eg3gg26f2952b44639c2g835530b0hd.ZIndex = 4;
+g5b505fbb1cf291de2a63b.eg3gg26f2952b44639c2g835530b0hd.Size = UDim2.new(-0.00999999978, 30, 1, 0);
+g5b505fbb1cf291de2a63b.eg3gg26f2952b44639c2g835530b0hd.BorderColor3 = Color3.fromRGB(25, 25, 25);
+g5b505fbb1cf291de2a63b.eg3gg26f2952b44639c2g835530b0hd.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.eg3gg26f2952b44639c2g835530b0hd.BackgroundColor3 = Color3.fromRGB(25, 25, 25);
+g5b505fbb1cf291de2a63b.eg3gg26f2952b44639c2g835530b0hd.TextYAlignment = Enum.TextYAlignment.Top;
+g5b505fbb1cf291de2a63b.eg3gg26f2952b44639c2g835530b0hd.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.eg3gg26f2952b44639c2g835530b0hd.Text = "1";
+g5b505fbb1cf291de2a63b.eg3gg26f2952b44639c2g835530b0hd.TextSize = 15;
+g5b505fbb1cf291de2a63b.eg3gg26f2952b44639c2g835530b0hd.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.eg3gg26f2952b44639c2g835530b0hd.Parent = g5b505fbb1cf291de2a63b.d6bd09ad;
+
+g5b505fbb1cf291de2a63b.h7ea31d639g86c2gc2afc36f8c0g.Name = "Execute";
+g5b505fbb1cf291de2a63b.h7ea31d639g86c2gc2afc36f8c0g.Size = UDim2.new(0, 75, 0, 30);
+g5b505fbb1cf291de2a63b.h7ea31d639g86c2gc2afc36f8c0g.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.h7ea31d639g86c2gc2afc36f8c0g.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.h7ea31d639g86c2gc2afc36f8c0g.Position = UDim2.new(0, 13, 0, 308);
+g5b505fbb1cf291de2a63b.h7ea31d639g86c2gc2afc36f8c0g.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.h7ea31d639g86c2gc2afc36f8c0g.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.h7ea31d639g86c2gc2afc36f8c0g.ScaleType = Enum.ScaleType.Fit;
+g5b505fbb1cf291de2a63b.h7ea31d639g86c2gc2afc36f8c0g.Image = "http://www.roblox.com/asset/?id=8517323790";
+g5b505fbb1cf291de2a63b.h7ea31d639g86c2gc2afc36f8c0g.Parent = g5b505fbb1cf291de2a63b.g07ee;
+
+g5b505fbb1cf291de2a63b.a7ee6097ag99e09fc3bf188d1b.Name = "Background";
+g5b505fbb1cf291de2a63b.a7ee6097ag99e09fc3bf188d1b.AnchorPoint = Vector2.new(0.5, 0.5);
+g5b505fbb1cf291de2a63b.a7ee6097ag99e09fc3bf188d1b.Size = UDim2.new(0, 75, 0, 30);
+g5b505fbb1cf291de2a63b.a7ee6097ag99e09fc3bf188d1b.BorderColor3 = Color3.fromRGB(27, 42, 53);
+g5b505fbb1cf291de2a63b.a7ee6097ag99e09fc3bf188d1b.ClipsDescendants = true;
+g5b505fbb1cf291de2a63b.a7ee6097ag99e09fc3bf188d1b.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.a7ee6097ag99e09fc3bf188d1b.Position = UDim2.new(0, 37, 0, 15);
+g5b505fbb1cf291de2a63b.a7ee6097ag99e09fc3bf188d1b.BackgroundColor3 = Color3.fromRGB(80, 80, 80);
+g5b505fbb1cf291de2a63b.a7ee6097ag99e09fc3bf188d1b.Parent = g5b505fbb1cf291de2a63b.h7ea31d639g86c2gc2afc36f8c0g;
+
+g5b505fbb1cf291de2a63b.c1b4f97g30a.Name = "Border";
+g5b505fbb1cf291de2a63b.c1b4f97g30a.Color = Color3.fromRGB(70, 70, 70);
+g5b505fbb1cf291de2a63b.c1b4f97g30a.Parent = g5b505fbb1cf291de2a63b.a7ee6097ag99e09fc3bf188d1b;
+
+g5b505fbb1cf291de2a63b.g7c1gb.Name = "CornerRadius";
+g5b505fbb1cf291de2a63b.g7c1gb.CornerRadius = UDim.new(0, 4);
+g5b505fbb1cf291de2a63b.g7c1gb.Parent = g5b505fbb1cf291de2a63b.a7ee6097ag99e09fc3bf188d1b;
+
+g5b505fbb1cf291de2a63b.gb0b9a7.Name = "UICorner";
+g5b505fbb1cf291de2a63b.gb0b9a7.CornerRadius = UDim.new(0, 4);
+g5b505fbb1cf291de2a63b.gb0b9a7.Parent = g5b505fbb1cf291de2a63b.h7ea31d639g86c2gc2afc36f8c0g;
+
+g5b505fbb1cf291de2a63b.hd854gc9ggh7fb4e1ff5d.Name = "Clear";
+g5b505fbb1cf291de2a63b.hd854gc9ggh7fb4e1ff5d.Size = UDim2.new(0, 75, 0, 30);
+g5b505fbb1cf291de2a63b.hd854gc9ggh7fb4e1ff5d.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.hd854gc9ggh7fb4e1ff5d.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.hd854gc9ggh7fb4e1ff5d.Position = UDim2.new(0, 100, 0, 308);
+g5b505fbb1cf291de2a63b.hd854gc9ggh7fb4e1ff5d.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.hd854gc9ggh7fb4e1ff5d.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.hd854gc9ggh7fb4e1ff5d.ScaleType = Enum.ScaleType.Fit;
+g5b505fbb1cf291de2a63b.hd854gc9ggh7fb4e1ff5d.Image = "http://www.roblox.com/asset/?id=16346922164";
+g5b505fbb1cf291de2a63b.hd854gc9ggh7fb4e1ff5d.Parent = g5b505fbb1cf291de2a63b.g07ee;
+
+g5b505fbb1cf291de2a63b.fhh5gg777g56268709g060d1c48da.Name = "Background";
+g5b505fbb1cf291de2a63b.fhh5gg777g56268709g060d1c48da.AnchorPoint = Vector2.new(0.5, 0.5);
+g5b505fbb1cf291de2a63b.fhh5gg777g56268709g060d1c48da.Size = UDim2.new(0, 75, 0, 30);
+g5b505fbb1cf291de2a63b.fhh5gg777g56268709g060d1c48da.BorderColor3 = Color3.fromRGB(27, 42, 53);
+g5b505fbb1cf291de2a63b.fhh5gg777g56268709g060d1c48da.ClipsDescendants = true;
+g5b505fbb1cf291de2a63b.fhh5gg777g56268709g060d1c48da.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.fhh5gg777g56268709g060d1c48da.Position = UDim2.new(0, 37, 0, 15);
+g5b505fbb1cf291de2a63b.fhh5gg777g56268709g060d1c48da.BackgroundColor3 = Color3.fromRGB(80, 80, 80);
+g5b505fbb1cf291de2a63b.fhh5gg777g56268709g060d1c48da.Parent = g5b505fbb1cf291de2a63b.hd854gc9ggh7fb4e1ff5d;
+
+g5b505fbb1cf291de2a63b.ac9f8dchcf3b.Name = "Border";
+g5b505fbb1cf291de2a63b.ac9f8dchcf3b.Color = Color3.fromRGB(70, 70, 70);
+g5b505fbb1cf291de2a63b.ac9f8dchcf3b.Parent = g5b505fbb1cf291de2a63b.fhh5gg777g56268709g060d1c48da;
+
+g5b505fbb1cf291de2a63b.f0head6b55a2h76.Name = "CornerRadius";
+g5b505fbb1cf291de2a63b.f0head6b55a2h76.CornerRadius = UDim.new(0, 4);
+g5b505fbb1cf291de2a63b.f0head6b55a2h76.Parent = g5b505fbb1cf291de2a63b.fhh5gg777g56268709g060d1c48da;
+
+g5b505fbb1cf291de2a63b.ec70ha095e3c7dd523hc621a763bcd.Name = "UICorner";
+g5b505fbb1cf291de2a63b.ec70ha095e3c7dd523hc621a763bcd.CornerRadius = UDim.new(0, 4);
+g5b505fbb1cf291de2a63b.ec70ha095e3c7dd523hc621a763bcd.Parent = g5b505fbb1cf291de2a63b.hd854gc9ggh7fb4e1ff5d;
+
+g5b505fbb1cf291de2a63b.aad1b90.Name = "Home";
+g5b505fbb1cf291de2a63b.aad1b90.Size = UDim2.new(0, 430, 0, 356);
+g5b505fbb1cf291de2a63b.aad1b90.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.aad1b90.Position = UDim2.new(0.216902748, 0, 0.082452938, 0);
+g5b505fbb1cf291de2a63b.aad1b90.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.aad1b90.BackgroundColor3 = Color3.fromRGB(34, 34, 34);
+g5b505fbb1cf291de2a63b.aad1b90.Parent = g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432;
+
+g5b505fbb1cf291de2a63b.gf476e286ce3006a8e35b150e4c7gb.Name = "TextLabel";
+g5b505fbb1cf291de2a63b.gf476e286ce3006a8e35b150e4c7gb.Size = UDim2.new(0, 406, 0, 25);
+g5b505fbb1cf291de2a63b.gf476e286ce3006a8e35b150e4c7gb.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.gf476e286ce3006a8e35b150e4c7gb.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.gf476e286ce3006a8e35b150e4c7gb.Position = UDim2.new(0, 0, 0.0224718247, 0);
+g5b505fbb1cf291de2a63b.gf476e286ce3006a8e35b150e4c7gb.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.gf476e286ce3006a8e35b150e4c7gb.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.gf476e286ce3006a8e35b150e4c7gb.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.gf476e286ce3006a8e35b150e4c7gb.Text = "Hello, thank you for using Freezy! ";
+g5b505fbb1cf291de2a63b.gf476e286ce3006a8e35b150e4c7gb.TextSize = 18;
+g5b505fbb1cf291de2a63b.gf476e286ce3006a8e35b150e4c7gb.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.gf476e286ce3006a8e35b150e4c7gb.Parent = g5b505fbb1cf291de2a63b.aad1b90;
+
+g5b505fbb1cf291de2a63b.ca459eah515cf51d65883haa.Name = "TextLabel";
+g5b505fbb1cf291de2a63b.ca459eah515cf51d65883haa.Size = UDim2.new(0, 406, 0, 25);
+g5b505fbb1cf291de2a63b.ca459eah515cf51d65883haa.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.ca459eah515cf51d65883haa.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.ca459eah515cf51d65883haa.Position = UDim2.new(0, 0, 0.0926965401, 0);
+g5b505fbb1cf291de2a63b.ca459eah515cf51d65883haa.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.ca459eah515cf51d65883haa.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.ca459eah515cf51d65883haa.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.ca459eah515cf51d65883haa.Text = "We are still developing Freezy!";
+g5b505fbb1cf291de2a63b.ca459eah515cf51d65883haa.TextSize = 18;
+g5b505fbb1cf291de2a63b.ca459eah515cf51d65883haa.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.ca459eah515cf51d65883haa.Parent = g5b505fbb1cf291de2a63b.aad1b90;
+
+g5b505fbb1cf291de2a63b.achef1ehg0hee16g94a68cha4.Name = "TextLabel";
+g5b505fbb1cf291de2a63b.achef1ehg0hee16g94a68cha4.Size = UDim2.new(0, 406, 0, 25);
+g5b505fbb1cf291de2a63b.achef1ehg0hee16g94a68cha4.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.achef1ehg0hee16g94a68cha4.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.achef1ehg0hee16g94a68cha4.Position = UDim2.new(0, 0, 0.140449345, 0);
+g5b505fbb1cf291de2a63b.achef1ehg0hee16g94a68cha4.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.achef1ehg0hee16g94a68cha4.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.achef1ehg0hee16g94a68cha4.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.achef1ehg0hee16g94a68cha4.Text = "_________________________________";
+g5b505fbb1cf291de2a63b.achef1ehg0hee16g94a68cha4.TextSize = 18;
+g5b505fbb1cf291de2a63b.achef1ehg0hee16g94a68cha4.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.achef1ehg0hee16g94a68cha4.Parent = g5b505fbb1cf291de2a63b.aad1b90;
+
+g5b505fbb1cf291de2a63b.bb3chda52ge0a4d18c47a2h1d9b23.Name = "TextLabel";
+g5b505fbb1cf291de2a63b.bb3chda52ge0a4d18c47a2h1d9b23.Size = UDim2.new(0, 406, 0, 25);
+g5b505fbb1cf291de2a63b.bb3chda52ge0a4d18c47a2h1d9b23.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.bb3chda52ge0a4d18c47a2h1d9b23.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.bb3chda52ge0a4d18c47a2h1d9b23.Position = UDim2.new(0, 0, 0.210674077, 0);
+g5b505fbb1cf291de2a63b.bb3chda52ge0a4d18c47a2h1d9b23.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.bb3chda52ge0a4d18c47a2h1d9b23.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.bb3chda52ge0a4d18c47a2h1d9b23.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.bb3chda52ge0a4d18c47a2h1d9b23.Text = "[ Update Logs ]";
+g5b505fbb1cf291de2a63b.bb3chda52ge0a4d18c47a2h1d9b23.TextSize = 18;
+g5b505fbb1cf291de2a63b.bb3chda52ge0a4d18c47a2h1d9b23.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.bb3chda52ge0a4d18c47a2h1d9b23.Parent = g5b505fbb1cf291de2a63b.aad1b90;
+
+g5b505fbb1cf291de2a63b.g16cecddgcgf.Name = "TextLabel";
+g5b505fbb1cf291de2a63b.g16cecddgcgf.Size = UDim2.new(0, 406, 0, 25);
+g5b505fbb1cf291de2a63b.g16cecddgcgf.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.g16cecddgcgf.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.g16cecddgcgf.Position = UDim2.new(0.0209302325, 0, 0.28089878, 0);
+g5b505fbb1cf291de2a63b.g16cecddgcgf.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.g16cecddgcgf.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.g16cecddgcgf.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.g16cecddgcgf.Text = "• Added Executor";
+g5b505fbb1cf291de2a63b.g16cecddgcgf.TextSize = 18;
+g5b505fbb1cf291de2a63b.g16cecddgcgf.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.g16cecddgcgf.Parent = g5b505fbb1cf291de2a63b.aad1b90;
+
+g5b505fbb1cf291de2a63b.b355gfb375f909a955884.Name = "TextLabel";
+g5b505fbb1cf291de2a63b.b355gfb375f909a955884.Size = UDim2.new(0, 406, 0, 25);
+g5b505fbb1cf291de2a63b.b355gfb375f909a955884.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.b355gfb375f909a955884.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.b355gfb375f909a955884.Position = UDim2.new(0.0209302325, 0, 0.351123512, 0);
+g5b505fbb1cf291de2a63b.b355gfb375f909a955884.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.b355gfb375f909a955884.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.b355gfb375f909a955884.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.b355gfb375f909a955884.Text = "• Added Script Hub";
+g5b505fbb1cf291de2a63b.b355gfb375f909a955884.TextSize = 18;
+g5b505fbb1cf291de2a63b.b355gfb375f909a955884.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.b355gfb375f909a955884.Parent = g5b505fbb1cf291de2a63b.aad1b90;
+
+g5b505fbb1cf291de2a63b.ge74fb2gg.Name = "TextLabel";
+g5b505fbb1cf291de2a63b.ge74fb2gg.Size = UDim2.new(0, 406, 0, 25);
+g5b505fbb1cf291de2a63b.ge74fb2gg.BorderColor3 = Color3.fromRGB(0, 0, 0);
+g5b505fbb1cf291de2a63b.ge74fb2gg.BackgroundTransparency = 1;
+g5b505fbb1cf291de2a63b.ge74fb2gg.Position = UDim2.new(0.0279069766, 0, 0.421348214, 0);
+g5b505fbb1cf291de2a63b.ge74fb2gg.BorderSizePixel = 0;
+g5b505fbb1cf291de2a63b.ge74fb2gg.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.ge74fb2gg.TextColor3 = Color3.fromRGB(255, 255, 255);
+g5b505fbb1cf291de2a63b.ge74fb2gg.Text = "More Soon!";
+g5b505fbb1cf291de2a63b.ge74fb2gg.TextSize = 18;
+g5b505fbb1cf291de2a63b.ge74fb2gg.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+g5b505fbb1cf291de2a63b.ge74fb2gg.Parent = g5b505fbb1cf291de2a63b.aad1b90;
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.h5f582h0hg1b08830e4fe5dcd);
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.fcha8ghf16b791h8b9202d5f22b3);
 	local mainFrame = script.Parent.Parent
 	
 	script.Parent.MouseButton1Click:Connect(function()
@@ -742,7 +742,7 @@ task.spawn(function()
 end);
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.gcf251gdfhc5bd);
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.cba4194d3eaf3099h41a6h650d1432);
 	local UIS = game:GetService("UserInputService")
 	function dragify(Frame)
 		dragToggle = nil
@@ -784,7 +784,7 @@ task.spawn(function()
 end);
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.g6gdeb2ebd4a);
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g);
 	local Players = game:GetService("Players")
 	local RunService = game:GetService("RunService")
 	local TweenService = game:GetService("TweenService")
@@ -928,12 +928,14 @@ task.spawn(function()
 end);
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.g6gdeb2ebd4a);
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.a1bg90dfbh48029hh6f5chgd4f6g);
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+	end)
 end);
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.d1gba7gahhb01b4a);
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.dggdf8);
 	local Players = game:GetService("Players")
 	local RunService = game:GetService("RunService")
 	local TweenService = game:GetService("TweenService")
@@ -1077,12 +1079,14 @@ task.spawn(function()
 end);
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.d1gba7gahhb01b4a);
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/rocoScripter/Scripts/main/drax.lua"))()
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.dggdf8);
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/rocoScripter/Scripts/main/drax.lua"))()
+	end)
 end);
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.g71gbghf5e453201);
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h);
 	local Players = game:GetService("Players")
 	local RunService = game:GetService("RunService")
 	local TweenService = game:GetService("TweenService")
@@ -1226,12 +1230,14 @@ task.spawn(function()
 end);
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.g71gbghf5e453201);
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/rocoScripter/Scripts/main/Lunar.lua"))()
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.cb36143075676a3hbc35gh1f5f8hge0h);
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/rocoScripter/Scripts/main/Lunar.lua"))()
+	end)
 end);
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.b193a4cb03763dgfgge04dhhb98);
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.he4a6c367bbh3);
 	local ExecutorFrame = script.Parent.Parent.Parent.Executor
 	local ScriptHubFrame = script.Parent.Parent.Parent.ScriptHub
 	local HomeFrame = script.Parent.Parent.Parent.Home
@@ -1246,7 +1252,7 @@ task.spawn(function()
 end);
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.f2h2g2d);
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.h8ah66264bf8116ga875h05h09f9b);
 	local ExecutorFrame = script.Parent.Parent.Parent.Executor
 	local ScriptHubFrame = script.Parent.Parent.Parent.ScriptHub
 	local HomeFrame = script.Parent.Parent.Parent.Home
@@ -1261,7 +1267,7 @@ task.spawn(function()
 end);
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.ech005g8h5ce926bg28e874);
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.cd1hhg);
 	local ExecutorFrame = script.Parent.Parent.Parent.Executor
 	local ScriptHubFrame = script.Parent.Parent.Parent.ScriptHub
 	local HomeFrame = script.Parent.Parent.Parent.Home
@@ -1276,7 +1282,7 @@ task.spawn(function()
 end);
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.fab8c9f9016774);
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.d6bd09ad);
 	local lua_keywords = {"and", "break", "do", "else", "elseif", "end", "false", "for", "function", "goto", "if", "in", "local", "nil", "not", "or", "repeat", "return", "then", "true", "until", "while", "/respawn", "/R6"}
 	local global_env = {"getrawmetatable", "game", "workspace", "script", "math", "string", "table", "print", "wait", "BrickColor", "Color3", "next", "pairs", "ipairs", "select", "unpack", "Instance", "Vector2", "Vector3", "CFrame", "Ray", "UDim2", "Enum", "assert", "error", "warn", "tick", "loadstring", "_G", "shared", "getfenv", "setfenv", "newproxy", "setmetatable", "getmetatable", "os", "debug", "pcall", "ypcall", "xpcall", "rawequal", "rawset", "rawget", "tonumber", "tostring", "type", "typeof", "_VERSION", "coroutine", "delay", "require", "spawn", "LoadLibrary", "settings", "stats", "time", "UserSettings", "version", "Axes", "ColorSequence", "Faces", "ColorSequenceKeypoint", "NumberRange", "NumberSequence", "NumberSequenceKeypoint", "gcinfo", "elapsedTime", "collectgarbage", "PhysicalProperties", "Rect", "Region3", "Region3int16", "UDim", "Vector2int16", "Vector3int16", "printidentity"}
 	
@@ -1466,7 +1472,7 @@ task.spawn(function()
 end);
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.g90dha8925d68ddd3he029d07c282a4);
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.h7ea31d639g86c2gc2afc36f8c0g);
 	local Players = game:GetService("Players")
 	local RunService = game:GetService("RunService")
 	local TweenService = game:GetService("TweenService")
@@ -1610,7 +1616,7 @@ task.spawn(function()
 end);
 
 task.spawn(function()
-	local script = Instance.new("Script", fh9a32a3a15a89gb.g90dha8925d68ddd3he029d07c282a4);
+	local script = Instance.new("Script", g5b505fbb1cf291de2a63b.h7ea31d639g86c2gc2afc36f8c0g);
 	local textbox = script.Parent.Parent.Scroll.CodeBox
 	
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1619,7 +1625,7 @@ task.spawn(function()
 end);
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.gcd9h0284g7049g25bbe8f3aebf2h);
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.hd854gc9ggh7fb4e1ff5d);
 	local Players = game:GetService("Players")
 	local RunService = game:GetService("RunService")
 	local TweenService = game:GetService("TweenService")
@@ -1763,7 +1769,7 @@ task.spawn(function()
 end);
 
 task.spawn(function()
-	local script = Instance.new("LocalScript", fh9a32a3a15a89gb.gcd9h0284g7049g25bbe8f3aebf2h);
+	local script = Instance.new("LocalScript", g5b505fbb1cf291de2a63b.hd854gc9ggh7fb4e1ff5d);
 	local codeBox = script.Parent.Parent.Scroll.CodeBox
 	
 	script.Parent.MouseButton1Click:Connect(function()
